@@ -1,26 +1,41 @@
 const express = require("express");
 
-// recordRoutes is an instance of the express router.
+// 'router' is an instance of the express router.
 // We use it to define our routes.
-// The router will be added as a middleware and will take control of requests starting with path /record.
+// The router will be added as a middleware and will take control of requests.
 const router = express.Router();
 
 // This will help us connect to the database
 const { getDB } = require("../db/conn");
 
-// This help convert the id from string to ObjectId for the _id.
-const ObjectId = require("mongodb").ObjectId;
-
-router.get("/test", async (req, res) => {
+// Search by course code
+// Takes school (ex: berkeley, deanza), subject (ex: POLI, MATH), and course ID (ex: 14, 15)
+router.get("/:school/:subject/:courseId/", async (req, res) => {
     const db = getDB();
-    const test = await db.collection("TestCollection").find().toArray();
-    res.json(test);
+    const courses = await db
+        .collection(req.params.school + "courses")
+        .find({
+            course: (
+                req.params["subject"] +
+                " " +
+                req.params["courseId"]
+            ).toUpperCase(),
+        })
+        .toArray();
+    res.send(courses);
 });
 
-router.get("/test2", async (req, res) => {
+// Search by professor
+// Takes school (ex: berkeley, deanza) and professor (ex: Michael%20Jordan)
+router.get("/:school/:prof/", async (req, res) => {
     const db = getDB();
-    const test = await db.collection("TestCollection2").find().toArray();
-    res.json(test);
+    const courses = await db
+        .collection(req.params.school + "courses")
+        .find({
+            prof: req.params["prof"],
+        })
+        .toArray();
+    res.send(courses);
 });
 
 module.exports = router;
