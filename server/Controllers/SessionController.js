@@ -68,9 +68,15 @@ async function login(req, res, next) {
 async function isLoggedIn(req, res, next) { 
     let db = await getDB();
     await mongoose.connect('mongodb://localhost:27017/ClassCove');
-  
+    
+    // user has no session, give them a fail message
+    if (req.body.session == null || req.body.session == "") { 
+        res.send({success: false});
+        return;
+    }
+
     if (UserSession.exists({session: req.body.session})) {
-      console.log(req.body.session);
+      console.log("session: " + req.body.session);
   
       let session = await db.collection("usersessions").findOne({session: req.body.session}); 
       let sessionID = session.UserId;
@@ -87,4 +93,16 @@ async function isLoggedIn(req, res, next) {
     res.send({success: false}); 
 }
 
-module.exports = {signUp, login, isLoggedIn};
+async function logout(req, res, next) { 
+    let db = await getDB();
+    // delete user session 
+    let session = await db.collection("usersessions").findOne({session: req.body.session}); 
+    // if the user fucked up their cookies we cannot delete, since session is stored in cookies
+    if (session == null) return; 
+
+    db.collection("usersessions").deleteOne({session: req.body.session}); 
+    console.log('logging out')
+    return;
+}
+
+module.exports = {signUp, login, isLoggedIn, logout};

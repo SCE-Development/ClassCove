@@ -43,6 +43,10 @@ router.post("/isLoggedIn", async function(req, res, next) {
   await sessionController.isLoggedIn(req, res, next);
 })
 
+router.post("/logout", async function(req, res, next) { 
+    await sessionController.logout(req, res, next);
+})
+
 // Search by course code
 // Takes school (ex: berkeley, deanza), subject (ex: POLI, MATH), and course ID (ex: 14, 15)
 router.get("/:school/:subject/:courseId/", async (req, res) => {
