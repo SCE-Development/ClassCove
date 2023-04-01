@@ -14,32 +14,34 @@ app.use(bodyParser.urlencoded());
 // in latest body-parser use like below.
 app.use(bodyParser.urlencoded({ extended: true }));
 
-// recordRoutes is an instance of the express router.
+// 'router' is an instance of the express router.
 // We use it to define our routes.
-// The router will be added as a middleware and will take control of requests starting with path /record.
+// The router will be added as a middleware and will take control of requests.
 const router = express.Router();
 
 const { getDB } = require("../db/conn");
 
-// This help convert the id from string to ObjectId for the _id.
-const ObjectId = require("mongodb").ObjectId;
-
-router.get("/users", async (req, res) => { 
-    let db = await getDB();
-    const users = await db.collection("users").find().toArray();
-    res.json(users);
-})
-
-router.post("/sign-up", async (req, res, next) => {
-    await sessionController.signUp(req, res, next);
+// Search by course code
+// Takes school (ex: berkeley, deanza), subject (ex: POLI, MATH), and course ID (ex: 14, 15)
+router.get("/:school/:subject/:courseId/", async (req, res) => {
+    const db = getDB();
+    const courses = await db
+        .collection(req.params.school + "courses")
+        .find({
+            course: (
+                req.params["subject"] +
+                " " +
+                req.params["courseId"]
+            ).toUpperCase(),
+        })
+        .toArray();
+    res.send(courses);
 });
 
-router.post("/log-in", async function(req, res, next) { 
-  await sessionController.login(req, res, next);
-})
-
-router.post("/isLoggedIn", async function(req, res, next) { 
-  await sessionController.isLoggedIn(req, res, next);
-})
+router.get("/test2", async (req, res) => {
+    const db = getDB();
+    const test = await db.collection("TestCollection2").find().toArray();
+    res.json(test);
+});
 
 module.exports = router;
