@@ -17,9 +17,7 @@ var _db;
 // Connects and confirms connection to the database
 async function connectDB() {
     try {
-        console.log(url);
-        await client.connect();
-        _db = client.db("ClassCove");
+        _db = mongoClient.db("ClassCove");
         await mongoClient.connect();
         _db = mongoClient.db("ClassCove");
         console.log("Successfully connected to MongoDB.");

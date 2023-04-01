@@ -21,6 +21,28 @@ const router = express.Router();
 
 const { getDB } = require("../db/conn");
 
+// This help convert the id from string to ObjectId for the _id.
+const ObjectId = require("mongodb").ObjectId;
+
+// testing route to see user accounts
+router.get("/users", async (req, res) => { 
+    let db = await getDB();
+    const users = await db.collection("users").find().toArray();
+    res.json(users);
+})
+
+router.post("/sign-up", async (req, res, next) => {
+    await sessionController.signUp(req, res, next);
+});
+
+router.post("/log-in", async function(req, res, next) { 
+  await sessionController.login(req, res, next);
+})
+
+router.post("/isLoggedIn", async function(req, res, next) { 
+  await sessionController.isLoggedIn(req, res, next);
+})
+
 // Search by course code
 // Takes school (ex: berkeley, deanza), subject (ex: POLI, MATH), and course ID (ex: 14, 15)
 router.get("/:school/:subject/:courseId/", async (req, res) => {
@@ -38,10 +60,17 @@ router.get("/:school/:subject/:courseId/", async (req, res) => {
     res.send(courses);
 });
 
-router.get("/test2", async (req, res) => {
+// Search by professor
+// Takes school (ex: berkeley, deanza) and professor (ex: Michael%20Jordan)
+router.get("/:school/:prof/", async (req, res) => {
     const db = getDB();
-    const test = await db.collection("TestCollection2").find().toArray();
-    res.json(test);
+    const courses = await db
+        .collection(req.params.school + "courses")
+        .find({
+            prof: req.params["prof"],
+        })
+        .toArray();
+    res.send(courses);
 });
 
 module.exports = router;

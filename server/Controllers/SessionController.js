@@ -8,7 +8,6 @@ const bcrypt = require("bcrypt");
 const { getDB } = require("../db/conn"); 
 
 async function signUp(req, res, next) { 
-    // define user schema
     await mongoose.connect('mongodb://localhost:27017/ClassCove');
     await console.log(req.body); 
     console.log('signup')
@@ -21,8 +20,11 @@ async function signUp(req, res, next) {
         });
 
         const result = await user.save();
+        res.send({success: true, user: user});
+        return;
 
     } catch(err) {
+        res.send({success: false});
         return next(err);
     };
 }
