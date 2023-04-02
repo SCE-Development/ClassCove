@@ -1,9 +1,11 @@
 // replace the form action with a real url when ready
 import axios from "axios";
 import {useNavigate} from "react-router-dom";
+import {useState} from "react";
 
 function Register() { 
     const navigate = useNavigate();
+    const [errorVisible, setErrorVisible] = useState("hidden");
 
     async function sendLogIn() { 
         let result = await axios.post('http://localhost:6969/log-in', { 
@@ -28,13 +30,15 @@ function Register() {
         })
 
         if (registration["data"]["success"]) 
-            await sendLogIn();
+            await sendLogIn(); 
+        else
+            setErrorVisible("visible");
     }
 
     return(
         <div> 
-            <div> 
-                <p>Invalid username or password</p>
+            <div className={errorVisible}> 
+                <p>Oh nah!! That username is TAKEN.</p>
             </div>
 
             <h1>Sign Up</h1>

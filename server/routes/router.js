@@ -6,6 +6,7 @@ const app = express();
 const mongoose = require("mongoose");
 const bcrypt = require("bcrypt");
 const sessionController = require("../Controllers/SessionController");
+const schoolController = require("../Controllers/SchoolController");
 
 // receive registration data as JSON
 var bodyParser = require('body-parser');
@@ -49,32 +50,14 @@ router.post("/logout", async function(req, res, next) {
 
 // Search by course code
 // Takes school (ex: berkeley, deanza), subject (ex: POLI, MATH), and course ID (ex: 14, 15)
-router.get("/:school/:subject/:courseId/", async (req, res) => {
-    const db = getDB();
-    const courses = await db
-        .collection(req.params.school + "courses")
-        .find({
-            course: (
-                req.params["subject"] +
-                " " +
-                req.params["courseId"]
-            ).toUpperCase(),
-        })
-        .toArray();
-    res.send(courses);
+router.get("/:school/:subject/:courseId/", async (req, res, next) => {
+    await schoolController.getCourse(req, res, next);
 });
 
 // Search by professor
 // Takes school (ex: berkeley, deanza) and professor (ex: Michael%20Jordan)
-router.get("/:school/:prof/", async (req, res) => {
-    const db = getDB();
-    const courses = await db
-        .collection(req.params.school + "courses")
-        .find({
-            prof: req.params["prof"],
-        })
-        .toArray();
-    res.send(courses);
+router.get("/:school/:prof/", async (req, res, next) => {
+    await schoolController.getProf(req, res, next);
 });
 
 module.exports = router;

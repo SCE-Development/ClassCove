@@ -10,6 +10,8 @@ const Router = () => {
       <Routes>
         <Route path="/register" exact element={<Register />} />
         <Route path="/login" exact element={<Login />} />
+
+        <Route path="/" exact element={<Dashboard />} />
         <Route path="/dashboard" exact element={<Dashboard />} />
       </Routes>
     </BrowserRouter>

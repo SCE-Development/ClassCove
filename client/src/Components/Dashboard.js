@@ -4,12 +4,10 @@ import { useNavigate } from "react-router-dom";
 
 function Dashboard() { 
     const navigate = useNavigate();
-    const [session, setSession] = useState(""); 
     const [userName, setUserName] = useState("")
 
     useEffect(() => {
         console.log(document.cookie);
-        setSession(document.cookie);
 
         async function getUser() { 
             // return user from express route using session cookie
@@ -38,7 +36,6 @@ function Dashboard() {
 
     return( 
         <div> 
-            <p> Your cookie is {session} </p>
             <h1>Welcome {userName} </h1>
             <button onClick={() => logout()}> Log out </button>
         </div>

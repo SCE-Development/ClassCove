@@ -10,7 +10,6 @@ const { getDB } = require("../db/conn");
 async function signUp(req, res, next) { 
     await mongoose.connect('mongodb://localhost:27017/ClassCove');
     await console.log(req.body); 
-    console.log('signup')
 
     try {
         const hashedPassword = await bcrypt.hash(req.body.password, 10); 

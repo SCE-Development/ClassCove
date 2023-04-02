@@ -30,12 +30,16 @@ function Login() {
         <p>Invalid username or password</p>
       </div>
 
-      <h1>please log in</h1>
+      <h1>😔😔😔please log in😔😔😔</h1>
       <label htmlFor="username">Username</label>
       <input name="username" placeholder="username" type="text" id="username" />
       <label htmlFor="password">Password</label>
       <input name="password" type="password" id="password" />
       <button onClick={() => sendLogIn()}>Log In</button>
+
+      <div> 
+        <a href="/register">Get me to that 💰💰💰💰 register</a>
+      </div>
     </div>
   )
 }
