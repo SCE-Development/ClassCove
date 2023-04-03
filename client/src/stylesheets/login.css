@@ -9,7 +9,9 @@ body {
     margin: 30px auto;
 }
 
-.login-block {
+.login-block,
+.register-block,
+.dashboard-block {
     width: 320px;
     padding: 20px;
     background: #fff;
@@ -18,7 +20,9 @@ body {
     margin: 0 auto;
 }
 
-.login-block h1 {
+.login-block h1,
+.register-block h1,
+.dashboard-block h2 {
     text-align: center;
     color: #000;
     font-size: 18px;
@@ -27,7 +31,9 @@ body {
     margin-bottom: 20px;
 }
 
-.login-block input {
+.login-block input,
+.register-block input,
+.dropdown {
     width: 100%;
     height: 42px;
     box-sizing: border-box;
@@ -40,31 +46,40 @@ body {
     outline: none;
 }
 
-.login-block input#username {
+.login-block input#username,
+.register-block input#username {
     background: #fff 20px top no-repeat;
     background-size: 16px 80px;
 }
 
-.login-block input#username:focus {
+.login-block input#username:focus,
+.register-block input#username:focus {
     background: #fff 20px bottom no-repeat;
     background-size: 16px 80px;
 }
 
-.login-block input#password {
+.login-block input#password,
+.register-block input#password {
     background: #fff 20px top no-repeat;
     background-size: 16px 80px;
 }
 
-.login-block input#password:focus {
+.login-block input#password:focus,
+.register-block input#password:focus {
     background: #fff 20px bottom no-repeat;
     background-size: 16px 80px;
 }
 
-.login-block input:active, .login-block input:focus {
+.login-block input:active, 
+.login-block input:focus,
+.register-block input:active, 
+.register-block input:focus {
     border: 1px solid #ff656c;
 }
 
-.login-block button {
+.login-block button,
+.register-block button,
+.dashboard-block button{
     width: 100%;
     height: 40px;
     background: #ff656c;
@@ -80,6 +95,17 @@ body {
     cursor: pointer;
 }
 
-.login-block button:hover {
+.login-block button:hover,
+.register-block button:hover{
     background: #ff7b81;
+}
+
+.dropdown {
+    background-color: white;
+    border: 1px solid #ccc;
+    color: #4b6aa8;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
 }

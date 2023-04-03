@@ -1,6 +1,7 @@
 import {useState, useEffect } from "react"
 import axios from "axios"
 import { useNavigate } from "react-router-dom";
+import "../stylesheets/login.css";
 
 function Dashboard() { 
     const navigate = useNavigate();
@@ -36,8 +37,23 @@ function Dashboard() {
 
     return( 
         <div> 
-            <h1>Welcome {userName} </h1>
+            <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'></link>
+            <h1>Ready to start planning, {userName}? </h1>
+            <div className="dashboard-block">
+                <div className="school">
+                    <h2>Select a school</h2>
+                    <select className="dropdown">
+                        <option>populate with schools</option>
+                    </select>
+                </div>
+                <div className="course">
+                    <h2>Select a course</h2>
+                    <select className="dropdown">
+                        <option>populate with courses</option>
+                    </select>
+                </div>
             <button onClick={() => logout()}> Log out </button>
+            </div>
         </div>
     )
 }
