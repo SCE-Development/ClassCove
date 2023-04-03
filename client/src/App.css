@@ -31,25 +31,19 @@
   left: 10px;
 }
 
-.App-header-buttons {
-  display: flex;
-  flex-direction: row;
-  margin-bottom: 10px;
-}
-
-.App-login-button,
-.App-register-button {
-  margin-left: 10px;
-  background-color: white;
-  border: none;
-  color: #4b6aa8;
-  padding: 10px;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-.App-login-button:hover,
-.App-register-button:hover {
-  background-color: #7f96c5;
+.nav-button {
   color: white;
+  font-size: 16px;
+  font-style: bold;
+  border: transparent solid 2px;
+  border-bottom: 0px;
+  background-color: transparent;
+  padding: 14px 14px;
+  transition: all ease-in-out .3s;
+}
+
+.nav-button:hover {
+  border: white solid 2px;
+  border-bottom: 0px;
+  cursor: pointer;
 }

@@ -15,15 +15,15 @@ function Root() {
     <div className="App">
       <header className="App-header">
         <h1>ClassCove</h1>
-        <div className="App-header-buttons">
+        <div className="nav-container">
           
-          <button className="App-register-button" onClick={() => navigate('/dashboard')}>Home</button>
+          <button className="nav-button" onClick={() => navigate('/dashboard')}>Home</button>
 
-          <button className="App-login-button" onClick={() => navigate('/login')}>Login</button>
+          <button className="nav-button" onClick={() => navigate('/login')}>Login</button>
           
-          <button className="App-register-button" onClick={() => navigate('/register')}>Sign Up</button>
+          <button className="nav-button" onClick={() => navigate('/register')}>Sign Up</button>
 
-          
+    
         </div>
       </header>
       <img src={logo} className="App-logo" alt="logo" />
