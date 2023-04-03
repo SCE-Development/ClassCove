@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE1MjIz","name":"McKeel Academy"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":4,"courseCodes":[{"courseCount":1,"courseName":"HST560"}],"department":"History","firstName":"William","id":"VGVhY2hlci0yMTA3ODYw","lastName":"Kawaihae","numRatings":1,"school":{"id":"U2Nob29sLTE1MjIz","name":"McKeel Academy"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2NjI3","name":"Christian International College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":5,"avgRating":1,"courseCodes":[{"courseCount":1,"courseName":"NUR203"}],"department":"Nursing","firstName":"Elsa","id":"VGVhY2hlci0xOTEwMjYy","lastName":"Caraballa","numRatings":1,"school":{"id":"U2Nob29sLTE2NjI3","name":"Christian International College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

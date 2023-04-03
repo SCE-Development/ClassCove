@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTExOTE0","name":"Beta Tech"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":2.5,"avgRating":1.8,"courseCodes":[{"courseCount":1,"courseName":"COORDINATOR"},{"courseCount":1,"courseName":"INTROTOLAW"}],"department":"Law","firstName":"Levinea","id":"VGVhY2hlci04MDQxOTc=","lastName":"Carter","numRatings":2,"school":{"id":"U2Nob29sLTExOTE0","name":"Beta Tech"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

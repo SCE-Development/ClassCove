@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2MDE0","name":"CDI College Quebec City"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":5,"avgRating":1,"courseCodes":[{"courseCount":4,"courseName":"LEA9C"}],"department":"Computer Science","firstName":"Jean-Francois","id":"VGVhY2hlci0xODg3MjI1","lastName":"Pelletier","numRatings":4,"school":{"id":"U2Nob29sLTE2MDE0","name":"CDI College Quebec City"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

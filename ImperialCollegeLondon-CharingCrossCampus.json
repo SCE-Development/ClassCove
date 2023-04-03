@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEyMjYx","name":"Imperial College London- Charing Cross Campus"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":2,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"PSYCHOLOGY"}],"department":"Psychology","firstName":"David","id":"VGVhY2hlci0xODIyMzg4","lastName":"Murphy","numRatings":1,"school":{"id":"U2Nob29sLTEyMjYx","name":"Imperial College London- Charing Cross Campus"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

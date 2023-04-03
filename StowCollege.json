@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEzMTU5","name":"Stow College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":2,"avgRating":2.3,"courseCodes":[{"courseCount":1,"courseName":"FFFF"},{"courseCount":1,"courseName":"GHJFDE"},{"courseCount":1,"courseName":"MMMM"}],"department":"Design","firstName":"Billy","id":"VGVhY2hlci05NDk0NTM=","lastName":"Taggart","numRatings":3,"school":{"id":"U2Nob29sLTEzMTU5","name":"Stow College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

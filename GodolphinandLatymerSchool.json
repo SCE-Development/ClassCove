@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEyOTc5","name":"Godolphin and Latymer School"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":2,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"8282"}],"department":"English","firstName":"Julian","id":"VGVhY2hlci0yMDQxOTYz","lastName":"Bell","numRatings":1,"school":{"id":"U2Nob29sLTEyOTc5","name":"Godolphin and Latymer School"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

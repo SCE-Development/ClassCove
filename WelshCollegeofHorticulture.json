@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEyODMz","name":"Welsh College of Horticulture"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Biology","firstName":"Glenn","id":"VGVhY2hlci0yMDc1MTEy","lastName":"Fain","numRatings":0,"school":{"id":"U2Nob29sLTEyODMz","name":"Welsh College of Horticulture"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

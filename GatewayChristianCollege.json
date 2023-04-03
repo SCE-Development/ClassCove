@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTExOTQ0","name":"Gateway Christian College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"ENG101"},{"courseCount":1,"courseName":"GREEK101"}],"department":"Biblical Studies","firstName":"Bruce","id":"VGVhY2hlci05NzUwNDQ=","lastName":"Barnes","numRatings":2,"school":{"id":"U2Nob29sLTExOTQ0","name":"Gateway Christian College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

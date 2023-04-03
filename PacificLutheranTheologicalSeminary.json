@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2NjAy","name":"Pacific Lutheran Theological Seminary"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"HS8102"},{"courseCount":1,"courseName":"HSST8100"}],"department":"Religion","firstName":"Kirsi","id":"VGVhY2hlci0yMTYxMDcx","lastName":"Stjerna","numRatings":2,"school":{"id":"U2Nob29sLTE2NjAy","name":"Pacific Lutheran Theological Seminary"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

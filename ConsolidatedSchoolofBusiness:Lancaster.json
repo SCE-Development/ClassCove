@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE5MzA=","name":"Consolidated School of Business: Lancaster"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"English","firstName":"","id":"VGVhY2hlci0xMjc4MzQz","lastName":"Baran","numRatings":0,"school":{"id":"U2Nob29sLTE5MzA=","name":"Consolidated School of Business: Lancaster"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

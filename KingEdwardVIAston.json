@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEzMTcw","name":"King Edward VI Aston"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Mathematics","firstName":"Matthew","id":"VGVhY2hlci04OTg1ODg=","lastName":"Marsh","numRatings":0,"school":{"id":"U2Nob29sLTEzMTcw","name":"King Edward VI Aston"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

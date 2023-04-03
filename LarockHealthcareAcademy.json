@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2NTg0","name":"Larock Healthcare Academy"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":1.5,"avgRating":5,"courseCodes":[{"courseCount":4,"courseName":"STNA"},{"courseCount":1,"courseName":"STNA101"},{"courseCount":1,"courseName":"STNAJULY2014"}],"department":"Nursing","firstName":"Dana","id":"VGVhY2hlci0xOTAxMjM2","lastName":"Michel","numRatings":6,"school":{"id":"U2Nob29sLTE2NTg0","name":"Larock Healthcare Academy"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

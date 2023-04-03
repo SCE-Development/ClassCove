@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEzNzcw","name":"Indiana Wesleyan University-Florence Campus"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3.7,"avgRating":5,"courseCodes":[{"courseCount":3,"courseName":"BUS105"}],"department":"Business","firstName":"Barry","id":"VGVhY2hlci0xNjE2MzY3","lastName":"Harsaran","numRatings":3,"school":{"id":"U2Nob29sLTEzNzcw","name":"Indiana Wesleyan University-Florence Campus"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

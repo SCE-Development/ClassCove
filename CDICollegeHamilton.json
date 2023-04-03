@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2MDA2","name":"CDI College Hamilton"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":2.5,"courseCodes":[{"courseCount":1,"courseName":"PHY135"}],"department":"Physics","firstName":"Melinda","id":"VGVhY2hlci0yMDgxOTk4","lastName":"Andrews","numRatings":1,"school":{"id":"U2Nob29sLTE2MDA2","name":"CDI College Hamilton"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

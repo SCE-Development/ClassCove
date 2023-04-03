@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2NDc3","name":"Everest College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":5,"avgRating":2,"courseCodes":[{"courseCount":1,"courseName":"MATDF02"}],"department":"Medicine","firstName":"Bonnie","id":"VGVhY2hlci0xODM3MzE4","lastName":"Desjardins","numRatings":1,"school":{"id":"U2Nob29sLTE2NDc3","name":"Everest College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

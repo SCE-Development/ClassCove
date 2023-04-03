@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE0NTQ4","name":"Houston Graduate School of Theology"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Religion","firstName":"Herbert","id":"VGVhY2hlci0yMjc4NTI4","lastName":"Fain","numRatings":0,"school":{"id":"U2Nob29sLTE0NTQ4","name":"Houston Graduate School of Theology"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

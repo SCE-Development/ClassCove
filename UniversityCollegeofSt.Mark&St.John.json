@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEyNTkz","name":"University College of St.Mark \u0026 St.John"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"PEPE"}],"department":"Physical Education","firstName":"Gareth","id":"VGVhY2hlci05NTI3MDM=","lastName":"Long","numRatings":1,"school":{"id":"U2Nob29sLTEyNTkz","name":"University College of St.Mark \u0026 St.John"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

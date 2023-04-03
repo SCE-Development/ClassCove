@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE1NjE5","name":"Ash manor"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Mathematics","firstName":"Daniel","id":"VGVhY2hlci0yNzAxNTM3","lastName":"Hicks","numRatings":0,"school":{"id":"U2Nob29sLTE1NjE5","name":"Ash manor"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

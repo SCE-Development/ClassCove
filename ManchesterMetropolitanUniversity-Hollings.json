@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEyNDM1","name":"Manchester Metropolitan University- Hollings"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Marketing","firstName":"Liz","id":"VGVhY2hlci05NTY2NTE=","lastName":"Barnes","numRatings":0,"school":{"id":"U2Nob29sLTEyNDM1","name":"Manchester Metropolitan University- Hollings"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTMwMjU=","name":"West Virginia Career Institute"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"English","firstName":"Mary Jo","id":"VGVhY2hlci0xNTMzNzQy","lastName":"Barnhart","numRatings":0,"school":{"id":"U2Nob29sLTMwMjU=","name":"West Virginia Career Institute"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

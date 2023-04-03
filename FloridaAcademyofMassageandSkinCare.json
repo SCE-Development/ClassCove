@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE1MDY1","name":"Florida Academy of Massage and Skin Care"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Education","firstName":"Scott","id":"VGVhY2hlci0xNjk2MDI2","lastName":"Helm","numRatings":0,"school":{"id":"U2Nob29sLTE1MDY1","name":"Florida Academy of Massage and Skin Care"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE1NDYz","name":"United Education Institute -  El Monte"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Anthropology","firstName":"Mark","id":"VGVhY2hlci0xODAzODY2","lastName":"Rubicon","numRatings":0,"school":{"id":"U2Nob29sLTE1NDYz","name":"United Education Institute -  El Monte"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

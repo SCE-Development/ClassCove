@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEyNzYw","name":"North East Wales Institute of Higher Education"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Economics","firstName":"Joshua","id":"VGVhY2hlci0xMjg4OTYz","lastName":"Kay","numRatings":0,"school":{"id":"U2Nob29sLTEyNzYw","name":"North East Wales Institute of Higher Education"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

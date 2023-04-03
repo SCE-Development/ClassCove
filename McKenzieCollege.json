@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTQ2ODY=","name":"McKenzie College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Communication","firstName":"Annie","id":"VGVhY2hlci0xNjA5Nzk3","lastName":"Botosoa","numRatings":0,"school":{"id":"U2Nob29sLTQ2ODY=","name":"McKenzie College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

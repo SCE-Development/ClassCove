@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEzMTY0","name":"Cegep de Saint-Hyacinthe"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Computer Science","firstName":"Issa","id":"VGVhY2hlci0yODM2MDI1","lastName":"Keita","numRatings":0,"school":{"id":"U2Nob29sLTEzMTY0","name":"Cegep de Saint-Hyacinthe"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

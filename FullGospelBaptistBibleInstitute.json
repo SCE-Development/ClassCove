@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE0NjEy","name":"Full Gospel Baptist Bible Institute"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":4.5,"courseCodes":[{"courseCount":1,"courseName":"BIB101"}],"department":"Religion","firstName":"Justin","id":"VGVhY2hlci0xNjMzMTY3","lastName":"Cohen","numRatings":1,"school":{"id":"U2Nob29sLTE0NjEy","name":"Full Gospel Baptist Bible Institute"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

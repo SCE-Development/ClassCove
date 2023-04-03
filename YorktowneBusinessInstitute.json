@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTMwNjY=","name":"Yorktowne Business Institute"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":1,"avgRating":1.5,"courseCodes":[{"courseCount":1,"courseName":"RUDIMC13"}],"department":"Hospitality","firstName":"Robert","id":"VGVhY2hlci0xNjQyMTU3","lastName":"Ganet","numRatings":1,"school":{"id":"U2Nob29sLTMwNjY=","name":"Yorktowne Business Institute"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

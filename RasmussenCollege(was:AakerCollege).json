@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEyMTU3","name":"Rasmussen College (was: Aaker College)"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":1.5,"avgRating":4.5,"courseCodes":[{"courseCount":1,"courseName":"BU136"},{"courseCount":1,"courseName":"COM100706"}],"department":"Communication","firstName":"Fran","id":"VGVhY2hlci04MjA5Mjk=","lastName":"Yarger","numRatings":2,"school":{"id":"U2Nob29sLTEyMTU3","name":"Rasmussen College (was: Aaker College)"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

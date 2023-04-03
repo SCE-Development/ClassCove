@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTQxNDA=","name":"Prosoft Training Institute"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":3.5,"courseCodes":[{"courseCount":1,"courseName":"ACSSW"}],"department":"Health Science","firstName":"Rod","id":"VGVhY2hlci0yNzczMjU=","lastName":"Whalleny","numRatings":1,"school":{"id":"U2Nob29sLTQxNDA=","name":"Prosoft Training Institute"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

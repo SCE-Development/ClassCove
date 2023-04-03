@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEyNzQy","name":"Neath Port Talbot College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Law","firstName":"Karen","id":"VGVhY2hlci0yNzM5NDA1","lastName":"Hill","numRatings":0,"school":{"id":"U2Nob29sLTEyNzQy","name":"Neath Port Talbot College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

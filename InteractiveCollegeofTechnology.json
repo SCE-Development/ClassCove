@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE1MDEy","name":"Interactive College of Technology"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Sociology","firstName":"Sharieka","id":"VGVhY2hlci0yODQ4MTcw","lastName":"Hall","numRatings":0,"school":{"id":"U2Nob29sLTE1MDEy","name":"Interactive College of Technology"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

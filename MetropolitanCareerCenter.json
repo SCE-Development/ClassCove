@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTI0Mzk=","name":"Metropolitan Career Center"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Computer Science","firstName":"Paul","id":"VGVhY2hlci0xNzM3MTYy","lastName":"Boyle","numRatings":0,"school":{"id":"U2Nob29sLTI0Mzk=","name":"Metropolitan Career Center"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

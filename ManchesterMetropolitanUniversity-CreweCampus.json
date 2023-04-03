@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEyNDI5","name":"Manchester Metropolitan University- Crewe Campus"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Music","firstName":"Jason","id":"VGVhY2hlci0yMDAwNDU5","lastName":"Woolley","numRatings":0,"school":{"id":"U2Nob29sLTEyNDI5","name":"Manchester Metropolitan University- Crewe Campus"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

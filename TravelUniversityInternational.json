@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTI5MTU=","name":"Travel University International"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"English","firstName":"Heather","id":"VGVhY2hlci0yMDQzNzk1","lastName":"Leslie","numRatings":0,"school":{"id":"U2Nob29sLTI5MTU=","name":"Travel University International"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

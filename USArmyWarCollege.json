@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2NTM4","name":"US Army War College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"History","firstName":"Steven","id":"VGVhY2hlci0yODYwMjE4","lastName":"Metz","numRatings":0,"school":{"id":"U2Nob29sLTE2NTM4","name":"US Army War College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

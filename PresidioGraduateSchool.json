@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEzNzQ5","name":"Presidio Graduate School"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Communication","firstName":"Stephanie","id":"VGVhY2hlci0yODMyMjE4","lastName":"Sharma","numRatings":0,"school":{"id":"U2Nob29sLTEzNzQ5","name":"Presidio Graduate School"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

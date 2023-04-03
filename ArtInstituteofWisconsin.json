@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2Njk2","name":"Art Institute of Wisconsin"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":5,"courseCodes":[{"courseCount":2,"courseName":"VP111"}],"department":"Film","firstName":"Justin","id":"VGVhY2hlci0yMDgzOTI2","lastName":"Evans","numRatings":2,"school":{"id":"U2Nob29sLTE2Njk2","name":"Art Institute of Wisconsin"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

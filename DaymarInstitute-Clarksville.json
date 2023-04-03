@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE1NTE0","name":"Daymar Institute - Clarksville"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Communication","firstName":"Chantrese","id":"VGVhY2hlci0yODE1NzA2","lastName":"Jones","numRatings":0,"school":{"id":"U2Nob29sLTE1NTE0","name":"Daymar Institute - Clarksville"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

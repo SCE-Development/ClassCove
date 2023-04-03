@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEzMjA3","name":"Canadian Therapeutic College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"HSC223"}],"department":"Health Science","firstName":"Phillis","id":"VGVhY2hlci0xMjYwNDUz","lastName":"Gennaccaro","numRatings":1,"school":{"id":"U2Nob29sLTEzMjA3","name":"Canadian Therapeutic College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

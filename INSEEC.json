@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2MTI3","name":"INSEEC"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":4.8,"courseCodes":[{"courseCount":2,"courseName":"MBAECON1"}],"department":"Management","firstName":"Daniel","id":"VGVhY2hlci0xODA1MTc3","lastName":"Valentine","numRatings":2,"school":{"id":"U2Nob29sLTE2MTI3","name":"INSEEC"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

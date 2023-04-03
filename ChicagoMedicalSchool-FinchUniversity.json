@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTQ4OTA=","name":"Chicago Medical School - Finch University"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Medicine","firstName":"Bruce","id":"VGVhY2hlci0xNTQwMTg5","lastName":"Manion","numRatings":0,"school":{"id":"U2Nob29sLTQ4OTA=","name":"Chicago Medical School - Finch University"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

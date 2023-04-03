@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2Njcx","name":"Southeastern College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":1,"avgRating":5,"courseCodes":[{"courseCount":3,"courseName":"MAT1033"}],"department":"Accounting","firstName":"Fernando","id":"VGVhY2hlci0yNzExMDgx","lastName":"Antunez","numRatings":1,"school":{"id":"U2Nob29sLTE2Njcx","name":"Southeastern College"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

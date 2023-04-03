@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE0ODMz","name":"National College Youngstown"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"ENG1001"}],"department":"English","firstName":"Mary Anne","id":"VGVhY2hlci0xNzIzNDA4","lastName":"Anderson","numRatings":1,"school":{"id":"U2Nob29sLTE0ODMz","name":"National College Youngstown"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

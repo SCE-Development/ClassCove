@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE1MDI3","name":"Le Cordon Bleu College of Culinary Arts"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Computer Science","firstName":"Yek","id":"VGVhY2hlci0xODg0Njc0","lastName":"Sia","numRatings":0,"school":{"id":"U2Nob29sLTE1MDI3","name":"Le Cordon Bleu College of Culinary Arts"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

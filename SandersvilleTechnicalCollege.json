@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEyMDQy","name":"Sandersville Technical College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":2.5,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"MATH1"},{"courseCount":1,"courseName":"MATHMATH"}],"department":"Mathematics","firstName":"Floyd","id":"VGVhY2hlci0xMDgyNDgx","lastName":"Souter","numRatings":2,"school":{"id":"U2Nob29sLTEyMDQy","name":"Sandersville Technical College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

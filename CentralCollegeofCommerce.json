@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEyNzI0","name":"Central College of Commerce"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Science","firstName":"Louise","id":"VGVhY2hlci04NTA1ODE=","lastName":"Buchanan","numRatings":0,"school":{"id":"U2Nob29sLTEyNzI0","name":"Central College of Commerce"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

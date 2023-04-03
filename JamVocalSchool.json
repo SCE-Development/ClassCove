@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEyODY5","name":"Jam Vocal School"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":4,"courseCodes":[{"courseCount":1,"courseName":"EDUC264"},{"courseCount":1,"courseName":"GROUPINDIVIDUA"},{"courseCount":1,"courseName":"VOICE"}],"department":"Music","firstName":"Jennifer","id":"VGVhY2hlci04Mjc0NjA=","lastName":"Meade","numRatings":3,"school":{"id":"U2Nob29sLTEyODY5","name":"Jam Vocal School"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

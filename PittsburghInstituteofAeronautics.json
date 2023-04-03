@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTI2ODY=","name":"Pittsburgh Institute of Aeronautics"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Classics","firstName":"Fawn","id":"VGVhY2hlci0yNjI0MTk3","lastName":"Moore","numRatings":0,"school":{"id":"U2Nob29sLTI2ODY=","name":"Pittsburgh Institute of Aeronautics"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

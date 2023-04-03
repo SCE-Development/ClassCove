@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE0NDI4","name":"The Cambridge Center for Adult Education"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":1,"avgRating":2,"courseCodes":[{"courseCount":1,"courseName":"RUSO01"}],"department":"Literature","firstName":"Katia","id":"VGVhY2hlci0xNjE5NjA5","lastName":"Kapovich","numRatings":1,"school":{"id":"U2Nob29sLTE0NDI4","name":"The Cambridge Center for Adult Education"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+
