@@ -1,3 +1,11 @@
+.hidden { 
+    display: none;
+}
+
+.hidden {
+    display: none;
+}
+
 body {
     background-size: cover;
     font-family: Montserrat;
