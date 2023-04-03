@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2ODAx","name":"Tennessee College of Applied Technology - Dickson"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Health Science","firstName":"Angela","id":"VGVhY2hlci0yMzg5NzQ0","lastName":"Spears","numRatings":0,"school":{"id":"U2Nob29sLTE2ODAx","name":"Tennessee College of Applied Technology - Dickson"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2ODk3","name":" Meridian College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Literature","firstName":"Robert","id":"VGVhY2hlci0yMTczMzEx","lastName":"Fowler","numRatings":0,"school":{"id":"U2Nob29sLTE2ODk3","name":" Meridian College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+
