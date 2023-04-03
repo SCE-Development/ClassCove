@@ -42,13 +42,12 @@ function Register() {
             <div className={errorVisible}> 
                 <p>Oh nah!! That username is TAKEN.</p>
             </div>
-
-            <div className="login-block">
+            <div className="register-block">
                 <h1>Sign Up</h1>
                 <label htmlFor="username">Username</label>
                 <input name="username" placeholder="username" type="text" id="username" />
                 <label htmlFor="password">Password</label>
-                <input name="password" type="password" id="password"/>
+                <input name="password" placeholder="password" type="password" id="password"/>
                 <button onClick={() => sendRegistration()}>Sign Up</button>
             </div>
         </div>
