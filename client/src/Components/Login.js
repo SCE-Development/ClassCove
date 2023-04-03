@@ -1,6 +1,7 @@
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";
+import "../stylesheets/login.css";
 
 function Login() { 
   const navigate = useNavigate();
@@ -26,20 +27,20 @@ function Login() {
 
   return( 
     <div>
+      <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'></link>
       <div className={errorVisible}> 
         <p>Invalid username or password</p>
       </div>
 
-      <h1>😔😔😔please log in😔😔😔</h1>
-      <label htmlFor="username">Username</label>
-      <input name="username" placeholder="username" type="text" id="username" />
-      <label htmlFor="password">Password</label>
-      <input name="password" type="password" id="password" />
-      <button onClick={() => sendLogIn()}>Log In</button>
+      <div className="login-block">
+        <h1>Login</h1>
+        <input type="text" placeholder="username" id="username" name="username" />
+        <input type="password" placeholder="password" id="password" name="username" />
+        <button onClick={() => sendLogIn()}>Log In</button>
 
-      <div> 
         <a href="/register">Get me to that 💰💰💰💰 register</a>
       </div>
+
     </div>
   )
 }
