@@ -14,7 +14,7 @@ function Root() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>ClassCoveTesting</h1>
+        <h1>ClassCoveTesting3</h1>
         <div className="App-header-buttons">
           
           <button className="App-register-button" onClick={() => navigate('/dashboard')}>Home</button>
