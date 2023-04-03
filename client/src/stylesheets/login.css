@@ -1,3 +1,7 @@
+.hidden { 
+    display: none;
+}
+
 body {
     background-size: cover;
     font-family: Montserrat;
@@ -17,7 +21,7 @@ body {
     background: #fff;
     border-radius: 5px;
     border-top: 5px solid #ff656c;
-    margin: 0 auto;
+    margin: 10px auto;
 }
 
 .login-block h1,
