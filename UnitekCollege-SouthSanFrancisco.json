@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3OTAw","name":"Unitek College - South San Francisco"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":2,"courseCodes":[{"courseCount":8,"courseName":"LVNSJ1"}],"department":"Nursing","firstName":"Victoria","id":"VGVhY2hlci0yNjcwODM0","lastName":"Finck","numRatings":1,"school":{"id":"U2Nob29sLTE3OTAw","name":"Unitek College"},"wouldTakeAgainPercent":83.3333}}],"resultCount":1}}}}
+

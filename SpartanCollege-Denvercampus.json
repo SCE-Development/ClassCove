@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3NzU5","name":"Spartan College - Denver campus"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Mathematics","firstName":"Brent","id":"VGVhY2hlci0yODU2NDg3","lastName":"Wallis","numRatings":0,"school":{"id":"U2Nob29sLTE3NzU5","name":"Spartan College - Denver campus"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

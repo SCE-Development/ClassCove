@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3OTAz","name":"University of Arkansas - Rogers Campus"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":5,"avgRating":1,"courseCodes":[{"courseCount":1,"courseName":"CSCE2023"}],"department":"Information Science","firstName":"Ben","id":"VGVhY2hlci0yNjE4MzYx","lastName":"Walcutt","numRatings":1,"school":{"id":"U2Nob29sLTE3OTAz","name":"University of Arkansas - Rogers Campus"},"wouldTakeAgainPercent":0}}],"resultCount":1}}}}
+

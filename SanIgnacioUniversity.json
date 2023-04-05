@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3NDgw","name":"San Ignacio University"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"HUM503"},{"courseCount":1,"courseName":"MBA501"}],"department":"Business","firstName":"Michael","id":"VGVhY2hlci0yMzg4MDE5","lastName":"Castle","numRatings":2,"school":{"id":"U2Nob29sLTE3NDgw","name":"San Ignacio University"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

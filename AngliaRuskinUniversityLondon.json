@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3NjEx","name":"Anglia Ruskin University London"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Law","firstName":"Tim","id":"VGVhY2hlci0yNDA2NDcz","lastName":"Price","numRatings":0,"school":{"id":"U2Nob29sLTE3NjEx","name":"Anglia Ruskin University London"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

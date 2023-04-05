@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE4MTEx","name":"Northeastern University - Toronto"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Engineering","firstName":"Ashwin","id":"VGVhY2hlci0yODQ3NzQ3","lastName":"D'Sousa","numRatings":0,"school":{"id":"U2Nob29sLTE4MTEx","name":"Northeastern University - Toronto"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3MjA1","name":"Cegep de Sorel-Tracy"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Nursing","firstName":"Julie","id":"VGVhY2hlci0yNDQ5MDQ0","lastName":"Beauregard","numRatings":0,"school":{"id":"U2Nob29sLTE3MjA1","name":"Cegep de Sorel-Tracy"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

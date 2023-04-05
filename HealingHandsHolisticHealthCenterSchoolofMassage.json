@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3Njc1","name":"Healing Hands Holistic Health Center School of Massage"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3.5,"avgRating":5,"courseCodes":[{"courseCount":2,"courseName":"MYOMAS101"}],"department":"Health Science","firstName":"Dennis","id":"VGVhY2hlci0yNDU1NzAy","lastName":"Scheffler","numRatings":2,"school":{"id":"U2Nob29sLTE3Njc1","name":"Healing Hands Holistic Health Center School of Massage"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

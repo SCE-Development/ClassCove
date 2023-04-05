@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3MTI5","name":"Purdue University - Krannert School of Management"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":1,"courseCodes":[{"courseCount":1,"courseName":"MGMT62000"}],"department":"Marketing","firstName":"Chad","id":"VGVhY2hlci0yMjg3NDI5","lastName":"Allred","numRatings":1,"school":{"id":"U2Nob29sLTE3MTI5","name":"Purdue University - Krannert School of Management"},"wouldTakeAgainPercent":0}}],"resultCount":1}}}}
+

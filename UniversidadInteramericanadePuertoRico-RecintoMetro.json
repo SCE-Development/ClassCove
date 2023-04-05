@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE4MDU5","name":"Universidad Interamericana de Puerto Rico - Recinto Metro"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":1,"courseCodes":[{"courseCount":1,"courseName":"GESP1102"}],"department":"Writing","firstName":"Jessica","id":"VGVhY2hlci0yNjQ2MjU0","lastName":"Soto","numRatings":1,"school":{"id":"U2Nob29sLTE4MDU5","name":"Universidad Interamericana de Puerto Rico - Recinto Metro"},"wouldTakeAgainPercent":0}}],"resultCount":1}}}}
+

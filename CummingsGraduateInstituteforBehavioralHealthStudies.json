@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3MDcx","name":"Cummings Graduate Institute for Behavioral Health Studies"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Psychology","firstName":"Carl","id":"VGVhY2hlci0yMjczNDQ1","lastName":"Wilson","numRatings":0,"school":{"id":"U2Nob29sLTE3MDcx","name":"Cummings Graduate Institute for Behavioral Health Studies"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

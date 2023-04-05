@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3ODI2","name":"William Carey University - Baton Rouge"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":2,"courseCodes":[{"courseCount":1,"courseName":"PATHO101"}],"department":"Nursing","firstName":"Madeline","id":"VGVhY2hlci0yNjY3NjI1","lastName":"LeBlanc","numRatings":1,"school":{"id":"U2Nob29sLTE3ODI2","name":"William Carey University - Baton Rouge"},"wouldTakeAgainPercent":0}}],"resultCount":1}}}}
+

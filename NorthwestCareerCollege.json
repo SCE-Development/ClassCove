@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3NTA4","name":"Northwest Career College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Law","firstName":"Aros","id":"VGVhY2hlci0yNTA5NTc1","lastName":"Mackey","numRatings":0,"school":{"id":"U2Nob29sLTE3NTA4","name":"Northwest Career College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

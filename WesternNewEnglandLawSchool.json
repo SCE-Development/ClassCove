@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3OTM1","name":"Western New England Law School"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"LAW513"}],"department":"Law","firstName":"Barbara","id":"VGVhY2hlci0yNzY1MDM5","lastName":"Reich","numRatings":1,"school":{"id":"U2Nob29sLTE3OTM1","name":"Western New England Law School"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

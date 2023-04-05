@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3NTg3","name":"South Texas School of Christian Studies"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"COSD30203"}],"department":"Communication","firstName":"Elaine","id":"VGVhY2hlci0yNjk1MjEy","lastName":"Wagstaff","numRatings":1,"school":{"id":"U2Nob29sLTE3NTg3","name":"South Texas School of Christian Studies"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

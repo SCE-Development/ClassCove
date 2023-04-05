@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3Mjg4","name":"Berkeley College - Dover"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":5,"courseCodes":[{"courseCount":2,"courseName":"CSK85"},{"courseCount":1,"courseName":"KGFAQGC9L3"}],"department":"Mathematics","firstName":"Victor","id":"VGVhY2hlci0yMjcwNzkz","lastName":"Moya","numRatings":3,"school":{"id":"U2Nob29sLTE3Mjg4","name":"Berkeley College - Dover"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

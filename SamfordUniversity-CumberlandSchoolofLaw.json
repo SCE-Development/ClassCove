@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3ODU4","name":"Samford University - Cumberland School of Law"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Law","firstName":"Heather","id":"VGVhY2hlci0yODMwMzk5","lastName":"Fann","numRatings":0,"school":{"id":"U2Nob29sLTE3ODU4","name":"Samford University - Cumberland School of Law"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

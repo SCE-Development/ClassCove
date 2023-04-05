@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3OTEz","name":"San Joaquin Valley College - Atascadero "},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Business","firstName":"Daniel","id":"VGVhY2hlci0yNTc2Mzk5","lastName":"Munch","numRatings":0,"school":{"id":"U2Nob29sLTE3OTEz","name":"San Joaquin Valley College - Atascadero "},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

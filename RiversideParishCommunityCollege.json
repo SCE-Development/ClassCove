@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3Njcz","name":"Riverside Parish Community College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4.3,"avgRating":2.7,"courseCodes":[{"courseCount":7,"courseName":"CHEM1010"}],"department":"Chemistry","firstName":"Donna","id":"VGVhY2hlci0yNDYxNTIx","lastName":"Rybicki","numRatings":6,"school":{"id":"U2Nob29sLTE3Njcz","name":"Riverside Parish Community College"},"wouldTakeAgainPercent":28.5714}}],"resultCount":1}}}}
+

@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3OTgw","name":"South Florida State College: DeSoto Campus"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":2,"avgRating":5,"courseCodes":[{"courseCount":2,"courseName":"20820PSY"}],"department":"Psychology","firstName":"Juan","id":"VGVhY2hlci0yNTg3NDYz","lastName":"Hernandez","numRatings":1,"school":{"id":"U2Nob29sLTE3OTgw","name":"South Florida State College: DeSoto Campus"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

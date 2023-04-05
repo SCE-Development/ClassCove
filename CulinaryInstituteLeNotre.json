@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2OTAz","name":"Culinary Institute LeNotre"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"English","firstName":"Pine","id":"VGVhY2hlci0yNzIyNDQ2","lastName":"Connie","numRatings":0,"school":{"id":"U2Nob29sLTE2OTAz","name":"Culinary Institute LeNotre"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

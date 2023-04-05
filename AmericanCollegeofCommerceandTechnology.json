@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3NDA4","name":"American College of Commerce and Technology"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":1,"avgRating":1,"courseCodes":[{"courseCount":1,"courseName":"GIS580"}],"department":"Business","firstName":"Sergei","id":"VGVhY2hlci0yMzMwMzI0","lastName":"Andronikov","numRatings":1,"school":{"id":"U2Nob29sLTE3NDA4","name":"American College of Commerce and Technology"},"wouldTakeAgainPercent":0}}],"resultCount":1}}}}
+

@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3Njk3","name":"Academy of Learning Career College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Social Work","firstName":"Judy","id":"VGVhY2hlci0yNDYwNzc2","lastName":"Gardner","numRatings":0,"school":{"id":"U2Nob29sLTE3Njk3","name":"Academy of Learning Career College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

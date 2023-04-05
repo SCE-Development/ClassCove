@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3NzU1","name":"Motlow State Community College - Moore County/Tullahoma Campus"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":2,"avgRating":4,"courseCodes":[{"courseCount":1,"courseName":"MUS1030"}],"department":"Music","firstName":"Adam","id":"VGVhY2hlci0yNjYwMzg3","lastName":"Shanley","numRatings":1,"school":{"id":"U2Nob29sLTE3NzU1","name":"Motlow State Community College - Moore County/Tullahoma Campus"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

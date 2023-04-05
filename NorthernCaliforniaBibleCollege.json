@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3Mzcw","name":"Northern California Bible College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"NT201"}],"department":"Religion","firstName":"David","id":"VGVhY2hlci0yMzY2MDUx","lastName":"Sell","numRatings":1,"school":{"id":"U2Nob29sLTE3Mzcw","name":"Northern California Bible College"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

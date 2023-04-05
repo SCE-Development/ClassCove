@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2OTU2","name":"Georgia Institute of Cosmetology"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Literature","firstName":"Randall","id":"VGVhY2hlci0yODYyMzE2","lastName":"Harrell","numRatings":0,"school":{"id":"U2Nob29sLTE2OTU2","name":"Georgia Institute of Cosmetology"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

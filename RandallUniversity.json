@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE4MjA2","name":"Randall University"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"PSYC-4263"}],"department":"Psychology","firstName":"Brandon","id":"VGVhY2hlci0yODgwNzkz","lastName":"Trueblood","numRatings":1,"school":{"id":"U2Nob29sLTE4MjA2","name":"Randall University"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

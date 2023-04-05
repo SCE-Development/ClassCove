@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3ODUx","name":"SUNY Empire State College - Cheektowaga"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":5,"courseCodes":[{"courseCount":2,"courseName":"MGMT3020"}],"department":"Management","firstName":"Bidhan","id":"VGVhY2hlci0yNzEwMDcy","lastName":"Chandra","numRatings":2,"school":{"id":"U2Nob29sLTE3ODUx","name":"SUNY Empire State College - Cheektowaga"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

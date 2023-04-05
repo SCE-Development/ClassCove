@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE4MTg0","name":"Wilfrid Laurier University - Milton"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Literature","firstName":"Denise","id":"VGVhY2hlci0yODU1MDQy","lastName":"Springett","numRatings":0,"school":{"id":"U2Nob29sLTE4MTg0","name":"Wilfrid Laurier University - Milton"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

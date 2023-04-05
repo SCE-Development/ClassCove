@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3Nzg0","name":"North Shore College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":4,"courseCodes":[{"courseCount":1,"courseName":"PNP120"}],"department":"Biology","firstName":"Hiren","id":"VGVhY2hlci0yODQ3MDg2","lastName":"Desai","numRatings":1,"school":{"id":"U2Nob29sLTE3Nzg0","name":"North Shore College"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

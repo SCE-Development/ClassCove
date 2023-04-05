@@ -32,7 +32,7 @@ json_data = {
 response = requests.post(url, headers=headers, json=json_data)
 data = json.loads(response.text)
 
-for school in range(7113,9010):
+for school in range(8328,9010):
     print(school)
     sleep(10)
     curid = data["data"]["search"]["schools"]["edges"][school]["node"]["id"]
