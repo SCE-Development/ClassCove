@@ -13,7 +13,7 @@ async function getCourse(req, res, next) {
     res.send(courses);
 }
 
-async function searchByProf(req, res, next) {
+async function getByProf(req, res, next) {
     const db = await getDB();
     const courses = await db
         .collection(req.params.school)

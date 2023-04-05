@@ -17,9 +17,6 @@ const userRouter = express.Router();
 
 const { getDB } = require("../db/conn");
 
-// This help convert the id from string to ObjectId for the _id.
-const ObjectId = require("mongodb").ObjectId;
-
 // testing route to see user accounts
 userRouter.get("/users", async (req, res) => {
     let db = await getDB();
@@ -41,6 +38,14 @@ userRouter.post("/user/isLoggedIn", async function (req, res, next) {
 
 userRouter.post("/user/logout", async function (req, res, next) {
     await sessionController.logout(req, res, next);
+});
+
+userRouter.post("/user/addCourse", async (req, res) => {
+    await sessionController.addCourse(req, res);
+});
+
+userRouter.post("/user/dropCourse", async (req, res) => {
+    await sessionController.dropCourse(req, res);
 });
 
 module.exports = userRouter;

@@ -4,6 +4,8 @@ const UserSession = require("../models/UserSession");
 const mongoose = require("mongoose");
 const bcrypt = require("bcrypt");
 const { getDB } = require("../db/conn");
+// This help convert the id from string to ObjectId for the _id.
+const ObjectId = require("mongodb").ObjectId;
 
 async function signUp(req, res, next) {
     await mongoose.connect("mongodb://localhost:27017/ClassCove");
@@ -14,6 +16,7 @@ async function signUp(req, res, next) {
         const user = new User({
             username: req.body.username,
             password: hashedPassword,
+            courses: [],
         });
 
         const result = await user.save();
@@ -26,7 +29,7 @@ async function signUp(req, res, next) {
 }
 
 async function login(req, res, next) {
-    let db = await getDB();
+    const db = await getDB();
 
     console.log("body name: " + req.body.username);
 
@@ -56,7 +59,6 @@ async function login(req, res, next) {
             UserId: userData._id,
             session: cookieValue,
         });
-
         await session.save();
     } else {
         res.send({ user: false, success: false });
@@ -65,36 +67,39 @@ async function login(req, res, next) {
 }
 
 async function isLoggedIn(req, res, next) {
-    let db = await getDB();
-
     // user has no session, give them a fail message
     if (req.body.session == null || req.body.session == "") {
         res.send({ success: false });
         return;
     }
 
-    if (UserSession.exists({ session: req.body.session })) {
-        console.log("session: " + req.body.session);
+    try {
+        const db = await getDB();
+        if (UserSession.exists({ session: req.body.session })) {
+            console.log("session: " + req.body.session);
 
-        let session = await db
-            .collection("usersessions")
-            .findOne({ session: req.body.session });
-        let sessionID = session.UserId;
+            let session = await db
+                .collection("usersessions")
+                .findOne({ session: req.body.session });
+            let sessionID = session.UserId;
 
-        let user = await User.findById(sessionID);
+            let user = await User.findById(sessionID);
 
-        console.log(sessionID);
-        console.log("user: " + user.username);
+            console.log(sessionID);
+            console.log("user: " + user.username);
 
-        res.send({ success: true, userName: user.username });
+            res.send({ success: true, userName: user.username });
+            return;
+        }
+        res.send({ success: false });
+    } catch {
+        res.send({ success: false });
         return;
     }
-
-    res.send({ success: false });
 }
 
 async function logout(req, res, next) {
-    let db = await getDB();
+    const db = await getDB();
     // delete user session
     let session = await db
         .collection("usersessions")
@@ -107,4 +112,36 @@ async function logout(req, res, next) {
     return;
 }
 
-module.exports = { signUp, login, isLoggedIn, logout };
+async function addCourse(req, res) {
+    try {
+        const db = await getDB();
+        await db
+            .collection("users")
+            .updateOne(
+                { _id: new ObjectId(req.body.id) },
+                { $push: { courses: req.body.course } }
+            );
+        res.status(200).send("Course added successfully");
+    } catch (error) {
+        console.error(error);
+        res.status(500).send("Error adding course");
+    }
+}
+
+async function dropCourse(req, res) {
+    try {
+        const db = await getDB();
+        await db
+            .collection("users")
+            .updateOne(
+                { _id: new ObjectId(req.body.id) },
+                { $pull: { courses: req.body.course } }
+            );
+        res.status(200).send("Course dropped successfully");
+    } catch (error) {
+        console.error(error);
+        res.status(500).send("Error dropping course");
+    }
+}
+
+module.exports = { signUp, login, isLoggedIn, logout, addCourse, dropCourse };
