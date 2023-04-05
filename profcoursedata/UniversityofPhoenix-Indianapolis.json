@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE1MzE1","name":"University of Phoenix - Indianapolis"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Not Specified","firstName":"Peggy","id":"VGVhY2hlci0xNzQyMTEx","lastName":"Kiser","numRatings":0,"school":{"id":"U2Nob29sLTE1MzE1","name":"University of Phoenix - Indianapolis"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

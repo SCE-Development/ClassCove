@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE3Njgx","name":"North Georgia Nursing Academy"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"COM113"}],"department":"Communication","firstName":"Kyle","id":"VGVhY2hlci0yNTA0MTkz","lastName":"Atkins","numRatings":1,"school":{"id":"U2Nob29sLTE3Njgx","name":"North Georgia Nursing Academy"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
-

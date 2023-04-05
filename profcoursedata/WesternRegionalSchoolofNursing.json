@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE4MTk5","name":"Western Regional School of Nursing"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Nursing","firstName":"Gina","id":"VGVhY2hlci0yODQwNDg2","lastName":"Billard","numRatings":0,"school":{"id":"U2Nob29sLTE4MTk5","name":"Western Regional School of Nursing"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

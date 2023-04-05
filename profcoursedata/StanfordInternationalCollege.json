@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE1NTEz","name":"Stanford International College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[{"courseCount":1,"courseName":"theory"}],"department":"Health Science","firstName":"Silvia","id":"VGVhY2hlci0yODE2OTI4","lastName":"De Lorenzo","numRatings":0,"school":{"id":"U2Nob29sLTE1NTEz","name":"Stanford International College"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
-

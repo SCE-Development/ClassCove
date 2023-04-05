@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE2NTc4","name":"DeVry University Dayton Center"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Business","firstName":"Kelly","id":"VGVhY2hlci0yMTk3NDk2","lastName":"Bruning","numRatings":0,"school":{"id":"U2Nob29sLTE2NTc4","name":"DeVry University Dayton Center"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

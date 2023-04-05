@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE3MDUw","name":"Robert Morris University - Arlington Heights"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Mathematics","firstName":"Melissa","id":"VGVhY2hlci0yMjI1MzUy","lastName":"Gaddini","numRatings":0,"school":{"id":"U2Nob29sLTE3MDUw","name":"Robert Morris University - Arlington Heights"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

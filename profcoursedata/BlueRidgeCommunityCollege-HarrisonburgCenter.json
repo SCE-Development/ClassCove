@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE2MTE1","name":"Blue Ridge Community College - Harrisonburg Center"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":1,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"HLT143"}],"department":"Health Science","firstName":"Carol","id":"VGVhY2hlci0xODIyMDQ0","lastName":"Harding","numRatings":1,"school":{"id":"U2Nob29sLTE2MTE1","name":"Blue Ridge Community College - Harrisonburg Center"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

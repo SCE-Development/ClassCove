@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE3MzY3","name":"Saint Charles Borromeo Seminary"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"PHL109"}],"department":"Philosophy","firstName":"James","id":"VGVhY2hlci0yMzI4NzU5","lastName":"Despres","numRatings":1,"school":{"id":"U2Nob29sLTE3MzY3","name":"Saint Charles Borromeo Seminary"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
-

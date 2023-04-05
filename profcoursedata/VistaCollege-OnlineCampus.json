@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE4MDcy","name":"Vista College - Online Campus"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"BUS101"}],"department":"Business","firstName":"Tamara","id":"VGVhY2hlci0yNjI1NTE5","lastName":"Reith","numRatings":1,"school":{"id":"U2Nob29sLTE4MDcy","name":"Vista College - Online Campus"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
-

@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE4MTY4","name":"Huron at Western"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Management","firstName":"Geraint ","id":"VGVhY2hlci0yODcwNDA4","lastName":"Harvey","numRatings":0,"school":{"id":"U2Nob29sLTE4MTY4","name":"Huron at Western"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

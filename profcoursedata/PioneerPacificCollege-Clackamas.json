@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE1MDA2","name":"Pioneer Pacific College-Clackamas "},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":4.5,"courseCodes":[{"courseCount":1,"courseName":"LAW212"}],"department":"Law","firstName":"Warren","id":"VGVhY2hlci0xODEyOTM5","lastName":"Moe","numRatings":1,"school":{"id":"U2Nob29sLTE1MDA2","name":"Pioneer Pacific College-Clackamas "},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

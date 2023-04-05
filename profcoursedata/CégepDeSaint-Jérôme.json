@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE2NzQ5","name":"Cégep De Saint-Jérôme"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Philosophy","firstName":"Maria","id":"VGVhY2hlci0yNDk3NzU2","lastName":"Chelkowska","numRatings":0,"school":{"id":"U2Nob29sLTE2NzQ5","name":"CÃ©gep De Saint-JÃ©rÃ´me"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

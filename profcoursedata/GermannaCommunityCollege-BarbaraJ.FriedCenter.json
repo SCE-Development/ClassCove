@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE3NjY3","name":"Germanna Community College - Barbara J. Fried Center"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":1,"avgRating":1,"courseCodes":[{"courseCount":1,"courseName":"REL100"}],"department":"Religion","firstName":"Thea","id":"VGVhY2hlci0yNTQ2ODEx","lastName":"Maggard","numRatings":1,"school":{"id":"U2Nob29sLTE3NjY3","name":"Germanna Community College - Barbara J. Fried Center"},"wouldTakeAgainPercent":0}}],"resultCount":1}}}}
-

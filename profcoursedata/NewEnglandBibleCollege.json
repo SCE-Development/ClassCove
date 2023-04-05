@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTU4OTQ=","name":"New England Bible College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Religion","firstName":"C.H.","id":"VGVhY2hlci03NzYzMjU=","lastName":"Dood","numRatings":0,"school":{"id":"U2Nob29sLTU4OTQ=","name":"New England Bible College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

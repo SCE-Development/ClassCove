@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE1NDQy","name":"American Century University"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":2,"avgRating":2.5,"courseCodes":[{"courseCount":1,"courseName":"BUSINT"}],"department":"International Business","firstName":"Mamdouh","id":"VGVhY2hlci0xNzM2Nzc1","lastName":"Abdel Rahman","numRatings":1,"school":{"id":"U2Nob29sLTE1NDQy","name":"American Century University"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

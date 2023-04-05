@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTEzODQ3","name":"Dominican University College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"DPHY2760"},{"courseCount":1,"courseName":"POL4366"}],"department":"Philosophy","firstName":"Maxime","id":"VGVhY2hlci0xOTM3OTgy","lastName":"Allard","numRatings":2,"school":{"id":"U2Nob29sLTEzODQ3","name":"Dominican University College"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
-

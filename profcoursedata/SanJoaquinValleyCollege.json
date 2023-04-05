@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE2OTU3","name":"San Joaquin Valley College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":4,"courseCodes":[{"courseCount":1,"courseName":"MTH121"}],"department":"Education","firstName":"Karen","id":"VGVhY2hlci0yMjIxNjgw","lastName":"Roseberry","numRatings":1,"school":{"id":"U2Nob29sLTE2OTU3","name":"San Joaquin Valley College"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
-

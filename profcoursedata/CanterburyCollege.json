@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTEyNDc4","name":"Canterbury College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":2,"avgRating":3.3,"courseCodes":[{"courseCount":1,"courseName":"ENGH101"},{"courseCount":1,"courseName":"FILM"},{"courseCount":1,"courseName":"FILMHE"}],"department":"Film","firstName":"Para","id":"VGVhY2hlci04NTQyMDY=","lastName":"Guha","numRatings":3,"school":{"id":"U2Nob29sLTEyNDc4","name":"Canterbury College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

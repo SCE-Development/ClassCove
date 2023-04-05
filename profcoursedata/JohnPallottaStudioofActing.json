@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE2NzYx","name":"John Pallotta Studio of Acting"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"ABS111"}],"department":"Film","firstName":"John","id":"VGVhY2hlci0yMjE5NTY1","lastName":"Pallotta","numRatings":1,"school":{"id":"U2Nob29sLTE2NzYx","name":"John Pallotta Studio of Acting"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
-

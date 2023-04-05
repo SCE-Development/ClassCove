@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE3Mjcw","name":"Rasmussen College - Lake Elmo"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":2,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"HSC1531"}],"department":"Medicine","firstName":"Lindsay","id":"VGVhY2hlci0yNDcwNTcz","lastName":"Nesmoe","numRatings":1,"school":{"id":"U2Nob29sLTE3Mjcw","name":"Rasmussen College - Lake Elmo"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
-

@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTEyNzE4","name":"Aberdeen College- Clinterty Centre"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":3,"courseCodes":[{"courseCount":1,"courseName":"FIN1101"}],"department":"Finance","firstName":"Bruce","id":"VGVhY2hlci0xMTQ4NjE0","lastName":"Gilliland","numRatings":1,"school":{"id":"U2Nob29sLTEyNzE4","name":"Aberdeen College- Clinterty Centre"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

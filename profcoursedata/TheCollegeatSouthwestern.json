@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE3MDY3","name":"The College at Southwestern"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":5,"courseCodes":[{"courseCount":2,"courseName":"EVA2201"}],"department":"Religion","firstName":"Carl","id":"VGVhY2hlci0yMzk2ODU0","lastName":"Bradford","numRatings":1,"school":{"id":"U2Nob29sLTE3MDY3","name":"The College at Southwestern"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
-

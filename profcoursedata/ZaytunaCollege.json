@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE1MDk4","name":"Zaytuna College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3.5,"avgRating":3,"courseCodes":[{"courseCount":2,"courseName":"ISLAMICHISTORY1"}],"department":"History","firstName":"Faraz","id":"VGVhY2hlci0yMzg0MjA4","lastName":"Khan","numRatings":2,"school":{"id":"U2Nob29sLTE1MDk4","name":"Zaytuna College"},"wouldTakeAgainPercent":50}}],"resultCount":1}}}}
-

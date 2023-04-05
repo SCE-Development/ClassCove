@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTI3MDY=","name":"Prince Institute of Professional Studies"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"TEC252"}],"department":"Professional Studies","firstName":"Eddie","id":"VGVhY2hlci0xMjE2MjE1","lastName":"Reid","numRatings":1,"school":{"id":"U2Nob29sLTI3MDY=","name":"Prince Institute of Professional Studies"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

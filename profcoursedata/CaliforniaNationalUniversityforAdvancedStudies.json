@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE1MzQ3","name":"California National University for Advanced Studies"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":5,"avgRating":4,"courseCodes":[{"courseCount":1,"courseName":"ENGR308"}],"department":"Not Specified","firstName":"Ali","id":"VGVhY2hlci0xNzMzNTI4","lastName":"El-Iraki","numRatings":1,"school":{"id":"U2Nob29sLTE1MzQ3","name":"California National University for Advanced Studies"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

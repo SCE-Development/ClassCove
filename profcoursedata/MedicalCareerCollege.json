@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTEzNjE3","name":"Medical Career College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":1,"avgRating":5,"courseCodes":[{"courseCount":3,"courseName":"CNA1"},{"courseCount":5,"courseName":"LVNSJ1"},{"courseCount":1,"courseName":"NA83A"}],"department":"Nursing","firstName":"Rosalie","id":"VGVhY2hlci0yMDMwOTA5","lastName":"Savella","numRatings":4,"school":{"id":"U2Nob29sLTEzNjE3","name":"Medical Career College"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
-

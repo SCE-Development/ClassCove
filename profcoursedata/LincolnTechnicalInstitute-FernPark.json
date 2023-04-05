@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE2NDAy","name":"Lincoln Technical Institute - Fern Park"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":5,"avgRating":1.5,"courseCodes":[{"courseCount":1,"courseName":"PEDIATRIC"}],"department":"Education","firstName":"Kristina","id":"VGVhY2hlci0xODg0ODMx","lastName":"Clifton","numRatings":1,"school":{"id":"U2Nob29sLTE2NDAy","name":"Lincoln Technical Institute - Fern Park"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

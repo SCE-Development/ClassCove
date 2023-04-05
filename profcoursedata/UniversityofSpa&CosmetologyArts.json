@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE3NDk5","name":"University of Spa \u0026 Cosmetology Arts"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"History","firstName":"Thomas","id":"VGVhY2hlci0yNzU2MjI5","lastName":"Sanders","numRatings":0,"school":{"id":"U2Nob29sLTE3NDk5","name":"University of Spa \u0026 Cosmetology Arts"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

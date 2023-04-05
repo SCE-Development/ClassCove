@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE0MzI0","name":"ITT Technical Institute - Charlotte"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Computer Science","firstName":"Chrystal","id":"VGVhY2hlci0xNzgwNjk5","lastName":"Slater","numRatings":0,"school":{"id":"U2Nob29sLTE0MzI0","name":"ITT Technical Institute - Charlotte"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-
