@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE1NDE5","name":"Brown Mackie College - Boise"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"FDREL200"}],"department":"Religion","firstName":"Matthew","id":"VGVhY2hlci0xODY3Mzkx","lastName":"Huffaker","numRatings":1,"school":{"id":"U2Nob29sLTE1NDE5","name":"Brown Mackie College - Boise"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

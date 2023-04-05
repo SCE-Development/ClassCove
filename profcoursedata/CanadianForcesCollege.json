@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2NjIz","name":"Canadian Forces College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Communication","firstName":"Rebeccca","id":"VGVhY2hlci0yNjM2MjI2","lastName":"Jensen","numRatings":0,"school":{"id":"U2Nob29sLTE2NjIz","name":"Canadian Forces College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

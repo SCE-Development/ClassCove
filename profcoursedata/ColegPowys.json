@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEyODI0","name":"Coleg Powys"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Not Specified","firstName":"Nikos","id":"VGVhY2hlci0xNTM1ODg3","lastName":"Koufos","numRatings":0,"school":{"id":"U2Nob29sLTEyODI0","name":"Coleg Powys"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

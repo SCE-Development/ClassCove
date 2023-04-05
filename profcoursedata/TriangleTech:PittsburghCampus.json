@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTI5MjQ=","name":"Triangle Tech: Pittsburgh Campus"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Architecture","firstName":"Tim","id":"VGVhY2hlci0xMjU0MDY5","lastName":"McMahon","numRatings":0,"school":{"id":"U2Nob29sLTI5MjQ=","name":"Triangle Tech: Pittsburgh Campus"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

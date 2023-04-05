@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3MTgz","name":"Kentucky Mountain Bible College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Religion","firstName":"Richard","id":"VGVhY2hlci0yMzA4NDQ2","lastName":"Englehardt","numRatings":0,"school":{"id":"U2Nob29sLTE3MTgz","name":"Kentucky Mountain Bible College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

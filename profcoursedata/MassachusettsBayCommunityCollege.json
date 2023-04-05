@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE0NzMy","name":"Massachusetts Bay Community College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[{"courseCount":3,"courseName":"nu160"}],"department":"Nursing","firstName":"Karla","id":"VGVhY2hlci0yNzMwNTM1","lastName":"Bulmer","numRatings":0,"school":{"id":"U2Nob29sLTE0NzMy","name":"Massachusetts Bay Community College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

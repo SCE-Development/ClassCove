@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3NDAz","name":"Paris Junior College - Sulphur Springs"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":2,"courseCodes":[{"courseCount":1,"courseName":"PSYC2301500"}],"department":"Psychology","firstName":"Jannette","id":"VGVhY2hlci0yMzc4MTQw","lastName":"Gibsob","numRatings":1,"school":{"id":"U2Nob29sLTE3NDAz","name":"Paris Junior College - Sulphur Springs"},"wouldTakeAgainPercent":0}}],"resultCount":1}}}}
+

@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEyMzE2","name":"The American International University in London"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"International Studies","firstName":"Wolfgang","id":"VGVhY2hlci04ODgyNzY=","lastName":"Deckers","numRatings":0,"school":{"id":"U2Nob29sLTEyMzE2","name":"The American International University in London"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

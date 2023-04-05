@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE1MzEy","name":"Bethlehem Area Vocational Technical School"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Education","firstName":"Donald","id":"VGVhY2hlci0yNTEwNDI4","lastName":"Heptner","numRatings":0,"school":{"id":"U2Nob29sLTE1MzEy","name":"Bethlehem Area Vocational Technical School"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

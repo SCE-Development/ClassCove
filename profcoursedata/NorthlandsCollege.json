@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3Mzg0","name":"Northlands College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Mathematics","firstName":"Eric","id":"VGVhY2hlci0yNjU5NzQw","lastName":"Hamm","numRatings":0,"school":{"id":"U2Nob29sLTE3Mzg0","name":"Northlands College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

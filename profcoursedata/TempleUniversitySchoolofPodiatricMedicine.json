@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE1MTUy","name":"Temple University School of Podiatric Medicine"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Not Specified","firstName":"Raymond","id":"VGVhY2hlci0xNzA0NTc5","lastName":"Diprimio","numRatings":0,"school":{"id":"U2Nob29sLTE1MTUy","name":"Temple University School of Podiatric Medicine"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

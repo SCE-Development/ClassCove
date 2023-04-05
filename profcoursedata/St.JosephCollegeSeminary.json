@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTUyODU=","name":"St. Joseph College Seminary"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"English","firstName":"Ruth","id":"VGVhY2hlci03NTU1MTc=","lastName":"Wickersham","numRatings":0,"school":{"id":"U2Nob29sLTUyODU=","name":"St. Joseph College Seminary"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

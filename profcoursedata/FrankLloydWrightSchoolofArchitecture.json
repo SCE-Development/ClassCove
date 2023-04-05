@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTU4MTg=","name":"Frank Lloyd Wright School of Architecture"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":1,"avgRating":4.5,"courseCodes":[{"courseCount":1,"courseName":"ARC1302"}],"department":"Architecture","firstName":"Jean","id":"VGVhY2hlci04MTI4NDY=","lastName":"Caldieron","numRatings":1,"school":{"id":"U2Nob29sLTU4MTg=","name":"Frank Lloyd Wright School of Architecture"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

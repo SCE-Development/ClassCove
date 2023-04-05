@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3NTYx","name":"Pacific Bible College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"WR121"}],"department":"English","firstName":"Dea","id":"VGVhY2hlci0yMzkyMDYw","lastName":"Chadwell","numRatings":1,"school":{"id":"U2Nob29sLTE3NTYx","name":"Pacific Bible College"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3MjE4","name":"Peter A. Allard School of Law"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[{"courseCount":1,"courseName":"201"}],"department":"Law","firstName":"Johnny","id":"VGVhY2hlci0yNjgzMzUw","lastName":"Mack","numRatings":0,"school":{"id":"U2Nob29sLTE3MjE4","name":"Peter A. Allard School of Law"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

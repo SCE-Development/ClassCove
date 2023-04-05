@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE0NTk2","name":"Santa Barbara Graduate Institute"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Psychology","firstName":"Holly","id":"VGVhY2hlci0xNzAxMTE5","lastName":"Goldberg","numRatings":0,"school":{"id":"U2Nob29sLTE0NTk2","name":"Santa Barbara Graduate Institute"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3OTM3","name":"Healthcare Training Institute"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"DMS101"}],"department":"Health Science","firstName":"Sahar","id":"VGVhY2hlci0yNTYyMDg0","lastName":"Elsaadi","numRatings":1,"school":{"id":"U2Nob29sLTE3OTM3","name":"Healthcare Training Institute"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3Mjk=","name":"Bidwell Training Center"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Medicine","firstName":"Sean","id":"VGVhY2hlci0yMDg2ODc4","lastName":"Parsons","numRatings":0,"school":{"id":"U2Nob29sLTE3Mjk=","name":"Bidwell Training Center"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEzMzk3","name":"Bethesda Christian University"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":2,"courseCodes":[],"department":"Religion","firstName":"George","id":"VGVhY2hlci0yNjg5ODY4","lastName":"Winney","numRatings":1,"school":{"id":"U2Nob29sLTEzMzk3","name":"Bethesda Christian University"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

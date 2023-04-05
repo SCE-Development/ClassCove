@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE4MjMx","name":"EMS Training Center of Southern NV"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Medicine","firstName":"Adi","id":"VGVhY2hlci0yNzUxNTg1","lastName":"Mattes","numRatings":0,"school":{"id":"U2Nob29sLTE4MjMx","name":"EMS Training Center of Southern NV"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

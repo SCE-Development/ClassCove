@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEzMTQ2","name":"Polyvalente Armand-corbeil"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Languages","firstName":"Karine","id":"VGVhY2hlci05OTM1MjY=","lastName":"Richard","numRatings":0,"school":{"id":"U2Nob29sLTEzMTQ2","name":"Polyvalente Armand-corbeil"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

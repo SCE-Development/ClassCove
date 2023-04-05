@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE1MTgx","name":"University of Medicine and Dentistry"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":2,"avgRating":1,"courseCodes":[{"courseCount":1,"courseName":"HSAP0616"}],"department":"Not Specified","firstName":"Nicole","id":"VGVhY2hlci0xNzI4MzU1","lastName":"Martin","numRatings":1,"school":{"id":"U2Nob29sLTE1MTgx","name":"University of Medicine and Dentistry"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

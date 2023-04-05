@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2NzI2","name":"Keller Graduate School of Management"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":1,"courseCodes":[{"courseCount":1,"courseName":"ACCT504"}],"department":"Accounting","firstName":"Steven","id":"VGVhY2hlci0xOTcyNzEw","lastName":"Wong","numRatings":1,"school":{"id":"U2Nob29sLTE2NzI2","name":"Keller Graduate School of Management"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

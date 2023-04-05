@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEyNzgz","name":"Trinity College- Carmarthen"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Humanities","firstName":"Karena","id":"VGVhY2hlci04NTQ1MzI=","lastName":"Lawrence","numRatings":0,"school":{"id":"U2Nob29sLTEyNzgz","name":"Trinity College- Carmarthen"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

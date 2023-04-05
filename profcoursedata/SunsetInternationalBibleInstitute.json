@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE1MTky","name":"Sunset International Bible Institute"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"English","firstName":"Paul","id":"VGVhY2hlci0yNTkxMjI4","lastName":"Wolf","numRatings":0,"school":{"id":"U2Nob29sLTE1MTky","name":"Sunset International Bible Institute"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

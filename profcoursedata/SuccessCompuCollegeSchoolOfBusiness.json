@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTQ2Mjk=","name":"Success CompuCollege School Of Business"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Not Specified","firstName":"Sue","id":"VGVhY2hlci0xODI1Njk4","lastName":"Bruning","numRatings":0,"school":{"id":"U2Nob29sLTQ2Mjk=","name":"Success CompuCollege School Of Business"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

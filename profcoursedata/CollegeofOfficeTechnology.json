@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE4ODU=","name":"College of Office Technology"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":4.5,"courseCodes":[{"courseCount":1,"courseName":"MA2012"}],"department":"Not Specified","firstName":"Jose","id":"VGVhY2hlci0xNDMyNTgz","lastName":"Vila","numRatings":1,"school":{"id":"U2Nob29sLTE4ODU=","name":"College of Office Technology"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

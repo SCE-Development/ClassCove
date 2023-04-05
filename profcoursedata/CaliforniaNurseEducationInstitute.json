@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE0NjA5","name":"California Nurse Education Institute"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":5,"avgRating":4,"courseCodes":[{"courseCount":1,"courseName":"NRS1"}],"department":"Nursing","firstName":"Jim","id":"VGVhY2hlci0xNzM4MDkx","lastName":"Cannon","numRatings":1,"school":{"id":"U2Nob29sLTE0NjA5","name":"California Nurse Education Institute"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

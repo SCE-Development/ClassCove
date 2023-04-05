@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE1MjI5","name":"Northwest Renewable Energy Institute"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"601PHASE3"}],"department":"Not Specified","firstName":"David","id":"VGVhY2hlci0xNzIxNjEz","lastName":"Hastings","numRatings":1,"school":{"id":"U2Nob29sLTE1MjI5","name":"Northwest Renewable Energy Institute"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

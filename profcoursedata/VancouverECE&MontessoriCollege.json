@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEzMTY1","name":"Vancouver ECE \u0026 Montessori College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":1,"avgRating":3.8,"courseCodes":[{"courseCount":1,"courseName":"ECE101"},{"courseCount":1,"courseName":"MECEECE"}],"department":"Not Specified","firstName":"Joan","id":"VGVhY2hlci05Mjg1ODE=","lastName":"Reimer","numRatings":2,"school":{"id":"U2Nob29sLTEzMTY1","name":"Vancouver ECE \u0026 Montessori College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

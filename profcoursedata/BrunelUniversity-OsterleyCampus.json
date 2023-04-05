@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEyMjQ2","name":"Brunel University - Osterley Campus"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Agriculture","firstName":"Jessie","id":"VGVhY2hlci04NDE2MjU=","lastName":"Perry","numRatings":0,"school":{"id":"U2Nob29sLTEyMjQ2","name":"Brunel University - Osterley Campus"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

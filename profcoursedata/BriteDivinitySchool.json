@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2OTI2","name":"Brite Divinity School "},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Religion","firstName":"Tomi","id":"VGVhY2hlci0yNzI3MDEw","lastName":"Oredein","numRatings":0,"school":{"id":"U2Nob29sLTE2OTI2","name":"Brite Divinity School "},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

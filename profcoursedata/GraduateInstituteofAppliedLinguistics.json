@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE1NTQ4","name":"Graduate Institute of Applied Linguistics"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Languages","firstName":"Michael","id":"VGVhY2hlci0yMzQzNTYy","lastName":"Boutin","numRatings":0,"school":{"id":"U2Nob29sLTE1NTQ4","name":"Graduate Institute of Applied Linguistics"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

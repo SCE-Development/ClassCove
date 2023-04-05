@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2ODk4","name":"Nimbus School of Recording \u0026 Media"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"ENG100"}],"department":"Music","firstName":"Daniel","id":"VGVhY2hlci0yNDY3NzA5","lastName":"Byrne","numRatings":1,"school":{"id":"U2Nob29sLTE2ODk4","name":"Nimbus School of Recording \u0026 Media"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTUwMjY=","name":"UnReel Digital Film School"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"History","firstName":"Joe","id":"VGVhY2hlci0xMjk1OTYx","lastName":"Cannon","numRatings":0,"school":{"id":"U2Nob29sLTUwMjY=","name":"UnReel Digital Film School"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE4MDM0","name":"Our Lady of the Lake University - Rio Grande Valley"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[{"courseCount":1,"courseName":"PSYC2302"}],"department":"Psychology","firstName":"Po-Yi","id":"VGVhY2hlci0yNzY4OTM4","lastName":"Chen","numRatings":0,"school":{"id":"U2Nob29sLTE4MDM0","name":"Our Lady of the Lake University - Rio Grande Valley"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

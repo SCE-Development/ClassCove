@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3MjU5","name":"Baker Technical Institute"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":5,"courseCodes":[{"courseCount":2,"courseName":"WR121"},{"courseCount":1,"courseName":"WR222"}],"department":"Writing","firstName":"Thomas","id":"VGVhY2hlci0yMjU4MjMx","lastName":"Joseph","numRatings":3,"school":{"id":"U2Nob29sLTE3MjU5","name":"Baker Technical Institute"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

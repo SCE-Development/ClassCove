@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3Mzkw","name":"Universal Technical Institute"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Engineering","firstName":"David","id":"VGVhY2hlci0yNTM5NzY1","lastName":"Winterstein","numRatings":0,"school":{"id":"U2Nob29sLTE3Mzkw","name":"Universal Technical Institute"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE1MDQ3","name":"ITT Technical Institute - Akron"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"MA1310"}],"department":"Mathematics","firstName":"Corey","id":"VGVhY2hlci0yMTU1NzI3","lastName":"Chadman","numRatings":1,"school":{"id":"U2Nob29sLTE1MDQ3","name":"ITT Technical Institute - Akron"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

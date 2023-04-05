@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2ODUy","name":"East Central College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":2.5,"avgRating":4.5,"courseCodes":[{"courseCount":1,"courseName":"AR1203"},{"courseCount":1,"courseName":"ART128"}],"department":"Art History","firstName":"Adam","id":"VGVhY2hlci0yMjM2NDY2","lastName":"Watkins","numRatings":2,"school":{"id":"U2Nob29sLTE2ODUy","name":"East Central College"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

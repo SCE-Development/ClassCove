@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE1NDMw","name":"Davenport University"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":1,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"BITS211"}],"department":"Engineering","firstName":"Ahmed","id":"VGVhY2hlci0xODM5NDk0","lastName":"Aijazi","numRatings":1,"school":{"id":"U2Nob29sLTE1NDMw","name":"Davenport University"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

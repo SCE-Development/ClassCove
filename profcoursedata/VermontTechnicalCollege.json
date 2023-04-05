@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE4MDk2","name":"Vermont Technical College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Health Science","firstName":"Ashley","id":"VGVhY2hlci0yNjIwMTk1","lastName":"Monroe","numRatings":0,"school":{"id":"U2Nob29sLTE4MDk2","name":"Vermont Technical College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

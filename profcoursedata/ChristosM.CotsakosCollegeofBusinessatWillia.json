@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTExOTY1","name":"Christos M. Cotsakos College of Business at Willia"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Business","firstName":"Sam","id":"VGVhY2hlci0xMDkxMzYx","lastName":"Basu","numRatings":0,"school":{"id":"U2Nob29sLTExOTY1","name":"Christos M. Cotsakos College of Business at Willia"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

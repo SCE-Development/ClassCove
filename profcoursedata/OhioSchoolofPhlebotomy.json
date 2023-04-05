@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2NjEy","name":"Ohio School of Phlebotomy"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"CMA"}],"department":"Medicine","firstName":"Craig","id":"VGVhY2hlci0xOTIzNTI0","lastName":"Clifford","numRatings":1,"school":{"id":"U2Nob29sLTE2NjEy","name":"Ohio School of Phlebotomy"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

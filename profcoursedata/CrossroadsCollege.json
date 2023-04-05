@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE0OTU1","name":"Crossroads College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Not Specified","firstName":"MI","id":"VGVhY2hlci0xNjg1Nzg3","lastName":"Jerpbak","numRatings":0,"school":{"id":"U2Nob29sLTE0OTU1","name":"Crossroads College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

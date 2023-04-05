@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEzNTU3","name":"National College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":2,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"BIO202"},{"courseCount":1,"courseName":"ENV101"}],"department":"Biology","firstName":"Botros","id":"VGVhY2hlci0yMDQ2NjE1","lastName":"Aiyad","numRatings":2,"school":{"id":"U2Nob29sLTEzNTU3","name":"National College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

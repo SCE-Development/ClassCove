@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTU1MDE=","name":"USMC Officer Candidates School"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"History","firstName":"","id":"VGVhY2hlci05MDQ0OTg=","lastName":"Strombarg","numRatings":0,"school":{"id":"U2Nob29sLTU1MDE=","name":"USMC Officer Candidates School"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

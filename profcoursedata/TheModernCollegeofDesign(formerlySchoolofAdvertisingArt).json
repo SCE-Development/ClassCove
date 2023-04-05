@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2NDU5","name":"The Modern College of Design (formerly School of Advertising Art)"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":2,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"ELT101"}],"department":"Design","firstName":"Lindsey","id":"VGVhY2hlci0yMzc1MzIy","lastName":"Meredith","numRatings":1,"school":{"id":"U2Nob29sLTE2NDU5","name":"The Modern College of Design (formerly School of Advertising Art)"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

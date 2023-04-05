@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE0MjI4","name":"Cortiva Institue - Crystal Lake"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":5,"avgRating":2,"courseCodes":[{"courseCount":1,"courseName":"MAS131"}],"department":"Health Science","firstName":"Tamara","id":"VGVhY2hlci0xODM4MDg0","lastName":"Gold","numRatings":1,"school":{"id":"U2Nob29sLTE0MjI4","name":"Cortiva Institue - Crystal Lake"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

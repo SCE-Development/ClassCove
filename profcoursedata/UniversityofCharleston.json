@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2MzM5","name":"University of Charleston"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":1,"avgRating":1,"courseCodes":[{"courseCount":2,"courseName":"HIS101"}],"department":"History","firstName":"Malcolm","id":"VGVhY2hlci0yNDYwMzE1","lastName":"Clark","numRatings":2,"school":{"id":"U2Nob29sLTE2MzM5","name":"University of Charleston"},"wouldTakeAgainPercent":0}}],"resultCount":1}}}}
+

@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2NTc0","name":"Illinois Institute of Art - Tinley Park"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":1,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"GD203"}],"department":"Graphic Arts","firstName":"Melinda","id":"VGVhY2hlci0xOTgzODEx","lastName":"Day","numRatings":1,"school":{"id":"U2Nob29sLTE2NTc0","name":"Illinois Institute of Art - Tinley Park"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

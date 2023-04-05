@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE1NTI1","name":"Formula Life Institute of Aesthetics"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"GYM101"}],"department":"Physical Education","firstName":"Aziz","id":"VGVhY2hlci0yNDU3NjQ4","lastName":"Shavershian","numRatings":1,"school":{"id":"U2Nob29sLTE1NTI1","name":"Formula Life Institute of Aesthetics"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

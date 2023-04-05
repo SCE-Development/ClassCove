@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE0NDMz","name":"ITT Technical Institute - Owings mills"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"English","firstName":"Margret","id":"VGVhY2hlci0xNjUyMzE1","lastName":"Curtis","numRatings":0,"school":{"id":"U2Nob29sLTE0NDMz","name":"ITT Technical Institute - Owings mills"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

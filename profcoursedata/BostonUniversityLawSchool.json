@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE4MjE4","name":"Boston University Law School"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":5,"avgRating":1,"courseCodes":[{"courseCount":1,"courseName":"JD887"}],"department":"Law","firstName":"Alan","id":"VGVhY2hlci0yNjk5NTA2","lastName":"Feld","numRatings":1,"school":{"id":"U2Nob29sLTE4MjE4","name":"Boston University Law School"},"wouldTakeAgainPercent":0}}],"resultCount":1}}}}
+

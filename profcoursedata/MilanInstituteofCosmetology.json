@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3MzQy","name":"Milan Institute of Cosmetology"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"CNA101"}],"department":"Nursing","firstName":"Claudette","id":"VGVhY2hlci0yMzYyNjI0","lastName":"Lachowicz","numRatings":1,"school":{"id":"U2Nob29sLTE3MzQy","name":"Milan Institute of Cosmetology"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

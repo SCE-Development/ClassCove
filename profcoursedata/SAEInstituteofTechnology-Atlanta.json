@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3MTI3","name":"SAE Institute of Technology - Atlanta"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":2,"avgRating":2,"courseCodes":[{"courseCount":1,"courseName":"AUD200"}],"department":"Music","firstName":"Brian","id":"VGVhY2hlci0yMzU5Mjk0","lastName":"Freeman","numRatings":1,"school":{"id":"U2Nob29sLTE3MTI3","name":"SAE Institute of Technology - Atlanta"},"wouldTakeAgainPercent":0}}],"resultCount":1}}}}
+

@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTQ5MA==","name":"Knoxville College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"English","firstName":"Tricia","id":"VGVhY2hlci0xNTY1NDQy","lastName":"George","numRatings":0,"school":{"id":"U2Nob29sLTQ5MA==","name":"Knoxville College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

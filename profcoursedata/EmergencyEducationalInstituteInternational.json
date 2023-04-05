@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3MDc4","name":"Emergency Educational Institute International"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":2.5,"avgRating":3,"courseCodes":[{"courseCount":1,"courseName":"NUR023"},{"courseCount":1,"courseName":"NUR2140C"}],"department":"Nursing","firstName":"Eva","id":"VGVhY2hlci0yNDA0Nzgy","lastName":"Deliverance","numRatings":2,"school":{"id":"U2Nob29sLTE3MDc4","name":"Emergency Educational Institute International"},"wouldTakeAgainPercent":50}}],"resultCount":1}}}}
+

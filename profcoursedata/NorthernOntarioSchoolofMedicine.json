@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEzMzY0","name":"Northern Ontario School of Medicine"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Health Science","firstName":"Carol","id":"VGVhY2hlci0yNTU3Nzc5","lastName":"Cameletti","numRatings":0,"school":{"id":"U2Nob29sLTEzMzY0","name":"Northern Ontario School of Medicine"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

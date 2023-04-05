@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE1MDAw","name":"International Center of Photography "},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Fine Arts","firstName":"Jeanette","id":"VGVhY2hlci0yODM4OTc1","lastName":"Spicer","numRatings":0,"school":{"id":"U2Nob29sLTE1MDAw","name":"International Center of Photography "},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

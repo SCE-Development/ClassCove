@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3NTU5","name":"Vance-Granville Community College - South Campus"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3.5,"avgRating":4,"courseCodes":[{"courseCount":1,"courseName":"BIO110"},{"courseCount":1,"courseName":"BIO168"}],"department":"Biology","firstName":"Karen","id":"VGVhY2hlci0yNDQxNTkz","lastName":"Jones","numRatings":2,"school":{"id":"U2Nob29sLTE3NTU5","name":"Vance-Granville Community College - South Campus"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

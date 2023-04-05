@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEzNDg5","name":"Graham School of Nursing"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Nursing","firstName":"Elaine","id":"VGVhY2hlci0yNTcyNTQw","lastName":"Neel","numRatings":0,"school":{"id":"U2Nob29sLTEzNDg5","name":"Graham School of Nursing"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

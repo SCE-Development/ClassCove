@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEyMjc1","name":"Institute of Neurology [London]"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Medicine","firstName":"Nick","id":"VGVhY2hlci04MzU0NzI=","lastName":"Wood","numRatings":0,"school":{"id":"U2Nob29sLTEyMjc1","name":"Institute of Neurology [London]"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

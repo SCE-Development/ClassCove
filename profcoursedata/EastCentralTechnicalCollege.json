@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEyODU2","name":"East Central Technical College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":4.5,"courseCodes":[{"courseCount":1,"courseName":"CIS105"}],"department":"Computer Science","firstName":"Casey","id":"VGVhY2hlci0xNDM3ODAx","lastName":"Thompson","numRatings":1,"school":{"id":"U2Nob29sLTEyODU2","name":"East Central Technical College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

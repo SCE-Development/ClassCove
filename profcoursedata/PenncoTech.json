@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTI2NzI=","name":"Pennco Tech"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":5,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"AMAEVE"},{"courseCount":1,"courseName":"MAADAY"},{"courseCount":1,"courseName":"MAAT"}],"department":"Health Science","firstName":"Kristin","id":"VGVhY2hlci0xMjUwMjM0","lastName":"Maguire","numRatings":3,"school":{"id":"U2Nob29sLTI2NzI=","name":"Pennco Tech"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

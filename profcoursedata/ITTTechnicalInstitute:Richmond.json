@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTIyNTQ=","name":"ITT Technical Institute: Richmond"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":2,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"ET4560"},{"courseCount":1,"courseName":"ET4640"}],"department":"Engineering","firstName":"Bowlin","id":"VGVhY2hlci0xMDUyNDM0","lastName":"Thompson","numRatings":2,"school":{"id":"U2Nob29sLTIyNTQ=","name":"ITT Technical Institute: Richmond"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3MzI4","name":"Des Moines Area Community College - Carroll"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3.5,"avgRating":4.5,"courseCodes":[{"courseCount":1,"courseName":"EDU210"},{"courseCount":1,"courseName":"SDV130"}],"department":"Education","firstName":"Lisa","id":"VGVhY2hlci0yMzU3MzYw","lastName":"Dreesman","numRatings":2,"school":{"id":"U2Nob29sLTE3MzI4","name":"Des Moines Area Community College - Carroll"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE1MTY4","name":"Academy of Court Reporting \u0026 Technology"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"CJ201"},{"courseCount":1,"courseName":"PI101"}],"department":"Criminal Justice","firstName":"Tom","id":"VGVhY2hlci0xNjI1MDM5","lastName":"Gorgone","numRatings":2,"school":{"id":"U2Nob29sLTE1MTY4","name":"Academy of Court Reporting \u0026 Technology"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE4MDk3","name":"ESCP Business School"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Management","firstName":"Chuanweng ","id":"VGVhY2hlci0yODU2ODY2","lastName":"Dong","numRatings":0,"school":{"id":"U2Nob29sLTE4MDk3","name":"ESCP Business School"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

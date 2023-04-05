@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2MTIw","name":"American Academy of Acupuncture and Oriental Medicine"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":2,"avgRating":1,"courseCodes":[{"courseCount":1,"courseName":"MED4203"}],"department":"Biology","firstName":"Jason","id":"VGVhY2hlci0yNDY3OTEw","lastName":"Strandberg","numRatings":1,"school":{"id":"U2Nob29sLTE2MTIw","name":"American Academy of Acupuncture and Oriental Medicine"},"wouldTakeAgainPercent":0}}],"resultCount":1}}}}
+

@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE0NDc0","name":"Hesser College - Nashua"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"CRJ240"}],"department":"Criminal Justice","firstName":"Edward","id":"VGVhY2hlci0xNzAxMDkz","lastName":"Tardif","numRatings":1,"school":{"id":"U2Nob29sLTE0NDc0","name":"Hesser College - Nashua"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

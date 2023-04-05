@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE4MzQ=","name":"Certified Careers Institute"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Education","firstName":"Kim","id":"VGVhY2hlci03MTAzNDM=","lastName":"Alstrom","numRatings":0,"school":{"id":"U2Nob29sLTE4MzQ=","name":"Certified Careers Institute"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

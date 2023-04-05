@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE2MDE5","name":"Vancouver Career College Kelowna"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":2,"avgRating":4,"courseCodes":[{"courseCount":1,"courseName":"ECE1110"}],"department":"Education","firstName":"Brandee","id":"VGVhY2hlci0yMTk2Mzgw","lastName":"Massey","numRatings":1,"school":{"id":"U2Nob29sLTE2MDE5","name":"Vancouver Career College Kelowna"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

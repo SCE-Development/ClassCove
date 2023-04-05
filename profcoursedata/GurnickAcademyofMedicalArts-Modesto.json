@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3ODU5","name":"Gurnick Academy of Medical Arts -Modesto"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":1,"avgRating":5,"courseCodes":[{"courseCount":2,"courseName":"VN62"}],"department":"Nursing","firstName":"Laura","id":"VGVhY2hlci0yNzIwNzM2","lastName":"Gregory","numRatings":1,"school":{"id":"U2Nob29sLTE3ODU5","name":"Gurnick Academy of Medical Arts -Modesto"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

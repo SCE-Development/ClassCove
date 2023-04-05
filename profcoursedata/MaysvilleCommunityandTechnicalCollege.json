@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3NzUz","name":"Maysville Community and Technical College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":4,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"ENG101"},{"courseCount":1,"courseName":"ENG102"}],"department":"English","firstName":"Garon","id":"VGVhY2hlci0yNTA3ODY5","lastName":"Overley","numRatings":2,"school":{"id":"U2Nob29sLTE3NzUz","name":"Maysville Community and Technical College"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
+

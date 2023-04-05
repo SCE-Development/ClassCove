@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTYwMDg=","name":"Islamic American University"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":4.5,"courseCodes":[{"courseCount":1,"courseName":"FIQ213E"}],"department":"Economics","firstName":"Moustafa","id":"VGVhY2hlci0xODg4NjM1","lastName":"Shahin","numRatings":1,"school":{"id":"U2Nob29sLTYwMDg=","name":"Islamic American University"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3Mzc2","name":"Siena Heights University"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Management","firstName":"E' lois","id":"VGVhY2hlci0yMzQ2MjMw","lastName":"Thomas","numRatings":0,"school":{"id":"U2Nob29sLTE3Mzc2","name":"Siena Heights University"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

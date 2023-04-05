@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3OTk3","name":"The Bartlett School of Planning"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Architecture","firstName":"Chee-Kit","id":"VGVhY2hlci0yNzYwOTM1","lastName":"Lai","numRatings":0,"school":{"id":"U2Nob29sLTE3OTk3","name":"The Bartlett School of Planning"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

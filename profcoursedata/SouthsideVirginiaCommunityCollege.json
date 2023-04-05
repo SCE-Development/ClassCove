@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE4MTgz","name":"Southside Virginia Community College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"English","firstName":"Matt","id":"VGVhY2hlci0yNzAwNDky","lastName":"Fisher","numRatings":0,"school":{"id":"U2Nob29sLTE4MTgz","name":"Southside Virginia Community College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

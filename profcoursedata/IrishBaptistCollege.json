@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTEyNzE0","name":"Irish Baptist College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Biology","firstName":"Jim","id":"VGVhY2hlci04OTQ3MDU=","lastName":"Bimbo","numRatings":0,"school":{"id":"U2Nob29sLTEyNzE0","name":"Irish Baptist College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

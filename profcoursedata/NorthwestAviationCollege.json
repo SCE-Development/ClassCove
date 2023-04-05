@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTI1ODI=","name":"Northwest Aviation College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":1,"avgRating":2.8,"courseCodes":[{"courseCount":1,"courseName":"AVI110"},{"courseCount":1,"courseName":"AVIA101"}],"department":"Aviation","firstName":"Kasey","id":"VGVhY2hlci0xMTAwMTky","lastName":"Maiorca","numRatings":2,"school":{"id":"U2Nob29sLTI1ODI=","name":"Northwest Aviation College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+

@@ -1,0 +1,2 @@
+{"data":{"school":{"id":"U2Nob29sLTE3NTM5","name":"City College - Hollywood"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Nursing","firstName":"Lorraine","id":"VGVhY2hlci0yNjI2NDEx","lastName":"Watson","numRatings":0,"school":{"id":"U2Nob29sLTE3NTM5","name":"City College - Hollywood"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
+
