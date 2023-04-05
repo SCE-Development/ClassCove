@@ -2,48 +2,112 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-
-.App-header {
-  background-color: #ff656c;
-  min-height: 1vh;
+.nav-container {
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-container div {
+  display: flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  text-align: center;
+  margin-left: 5px;
+  margin-right: 5px;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-.App-logo {
-  height: 100px;
-  width: 100px;
-  position: absolute;
-  top: 10px;
-  left: 10px;
-}
-
 .nav-button {
-  color: white;
-  font-size: 16px;
-  font-style: bold;
-  border: transparent solid 2px;
-  border-bottom: 0px;
+  color: black;
+  font-size: 18px;
+  border: lightblue solid 4px;
   background-color: transparent;
-  padding: 14px 14px;
+  padding: 10px 10px;
   transition: all ease-in-out .3s;
 }
 
 .nav-button:hover {
-  border: white solid 2px;
-  border-bottom: 0px;
   cursor: pointer;
+}
+
+.nav-button p {
+  margin: 0px;
+  font-weight: bolder;
+}
+
+#navbar-logo {
+  transition: all ease-in-out .3s;
+}
+
+#navbar-logo:hover {
+  cursor: pointer;
+  color: gray;
+  transform: scale(1.03);
+}
+
+.navbar-button {
+  text-decoration: none;
+  font-size: 18px;
+  margin: 5px;
+  padding: 10px 20px;
+  text-align: center;
+  border-radius: 8px;
+  background-color: transparent;
+  border: 2px solid black;
+  color: black;
+  cursor: pointer;
+  font-family: "Proxima Nova", sans-serif !important;
+  transition: all ease-in-out .3s;
+}
+
+.navigation-button {
+  text-decoration: none;
+  font-weight: bolder;
+  letter-spacing: 1.5px;
+  font-size: 18px;
+  padding: 10px 30px;
+  border-right: 2px solid white;
+  border-top: none;
+  border-left: none;
+  border-bottom: none;
+  text-align: center;
+  background-color: transparent;
+  color: white;
+  cursor: pointer;
+  font-family: "Proxima Nova", sans-serif !important;
+  transition: all ease-in-out .3s;
+}
+
+#register-button {
+  background-color: black;
+}
+
+
+#register-text {
+  color: white;
+  filter: brightness(150%);
+  font-weight: normal;
+  margin: 0;
+}
+
+#login-button span {
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+#login-button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+#login-button:hover span {
+  padding-right: 25px;
+}
+
+#login-button:hover span:after {
+  opacity: 1;
+  right: 0;
 }
