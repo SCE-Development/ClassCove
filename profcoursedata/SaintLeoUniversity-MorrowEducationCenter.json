@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE2OTM3","name":"Saint Leo University - Morrow Education Center"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Humanities","firstName":"Tara","id":"VGVhY2hlci0yMjIzODY0","lastName":"Miller","numRatings":0,"school":{"id":"U2Nob29sLTE2OTM3","name":"Saint Leo University - Morrow Education Center"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

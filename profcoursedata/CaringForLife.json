@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE4MTcx","name":"Caring For Life"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Nursing","firstName":"Tanya","id":"VGVhY2hlci0yNzAyMjI5","lastName":"Fowler","numRatings":0,"school":{"id":"U2Nob29sLTE4MTcx","name":"Caring For Life"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

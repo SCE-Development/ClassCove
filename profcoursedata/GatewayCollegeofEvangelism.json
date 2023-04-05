@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTEzMzM0","name":"Gateway College of Evangelism"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":1,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"ENG104"}],"department":"English","firstName":"Leanne","id":"VGVhY2hlci0xNDA1NTI2","lastName":"Alexander","numRatings":1,"school":{"id":"U2Nob29sLTEzMzM0","name":"Gateway College of Evangelism"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

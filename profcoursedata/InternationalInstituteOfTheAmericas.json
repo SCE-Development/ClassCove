@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE2Nzk=","name":"International Institute Of The Americas"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Biology","firstName":"Loja","id":"VGVhY2hlci0xOTQyNzI=","lastName":"Mota","numRatings":0,"school":{"id":"U2Nob29sLTE2Nzk=","name":"International Institute Of The Americas"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

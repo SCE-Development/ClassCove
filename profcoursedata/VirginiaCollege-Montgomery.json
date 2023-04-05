@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE0OTI4","name":"Virginia College - Montgomery"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":1,"courseCodes":[{"courseCount":1,"courseName":"NET1110"}],"department":"Computer Science","firstName":"Carlos","id":"VGVhY2hlci0yMDkyOTUw","lastName":"Williams","numRatings":1,"school":{"id":"U2Nob29sLTE0OTI4","name":"Virginia College - Montgomery"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

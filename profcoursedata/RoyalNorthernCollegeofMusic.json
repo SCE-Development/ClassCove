@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTEyNDM3","name":"Royal Northern College of Music"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":2,"avgRating":4.5,"courseCodes":[{"courseCount":1,"courseName":"FLUTEMUSI"}],"department":"Music","firstName":"Peter","id":"VGVhY2hlci04MzQyMTM=","lastName":"Lloyd","numRatings":1,"school":{"id":"U2Nob29sLTEyNDM3","name":"Royal Northern College of Music"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE3MTE4","name":"Los Angeles ORT College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":1,"avgRating":5,"courseCodes":[{"courseCount":2,"courseName":"BM605"}],"department":"Business","firstName":"Denise","id":"VGVhY2hlci0yMTYwOTE5","lastName":"Kotler","numRatings":2,"school":{"id":"U2Nob29sLTE3MTE4","name":"Los Angeles ORT College"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
-

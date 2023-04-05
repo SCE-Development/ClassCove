@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTQ2ODg=","name":"Long Island University - West Point"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Psychology","firstName":"Courtney","id":"VGVhY2hlci0yMTcxMDMz","lastName":"McDermott","numRatings":0,"school":{"id":"U2Nob29sLTQ2ODg=","name":"Long Island University - West Point"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

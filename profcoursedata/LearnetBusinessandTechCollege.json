@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTQ0Nzc=","name":"Learnet Business and Tech College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Business","firstName":"Hassan","id":"VGVhY2hlci0yMzYyNzY=","lastName":"Osseiran","numRatings":0,"school":{"id":"U2Nob29sLTQ0Nzc=","name":"Learnet Business and Tech College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

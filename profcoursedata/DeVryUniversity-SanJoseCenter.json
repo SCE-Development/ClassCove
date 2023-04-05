@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE3MjUx","name":"DeVry University - San Jose Center"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":3,"courseCodes":[{"courseCount":1,"courseName":"COMP100"}],"department":"Business","firstName":"Najib","id":"VGVhY2hlci0yMjk4MDQ1","lastName":"Kalai","numRatings":1,"school":{"id":"U2Nob29sLTE3MjUx","name":"DeVry University - San Jose Center"},"wouldTakeAgainPercent":0}}],"resultCount":1}}}}
-

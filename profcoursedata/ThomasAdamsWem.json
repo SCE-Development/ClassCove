@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTEyOTU2","name":"Thomas Adams Wem"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Mathematics","firstName":"Paul","id":"VGVhY2hlci0yNjk1MjMw","lastName":"Carney","numRatings":0,"school":{"id":"U2Nob29sLTEyOTU2","name":"Thomas Adams Wem"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

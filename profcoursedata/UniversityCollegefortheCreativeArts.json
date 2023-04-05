@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTEyNTI1","name":"University College for the Creative Arts"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Marketing","firstName":"Miguel","id":"VGVhY2hlci0yMjUxOTE0","lastName":"Martins","numRatings":0,"school":{"id":"U2Nob29sLTEyNTI1","name":"University College for the Creative Arts"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTEyMzE4","name":"The Royal College of Art"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":2,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"RADICALPRAC1"}],"department":"Architecture","firstName":"Cleo","id":"VGVhY2hlci0yNjYwODI3","lastName":"Valentine","numRatings":1,"school":{"id":"U2Nob29sLTEyMzE4","name":"The Royal College of Art"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
-

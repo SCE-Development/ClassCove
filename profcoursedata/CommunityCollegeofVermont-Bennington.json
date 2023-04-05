@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE3NzQ4","name":"Community College of Vermont - Bennington"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":4,"courseCodes":[{"courseCount":1,"courseName":"ENG1061VG02"}],"department":"English","firstName":"Jody","id":"VGVhY2hlci0yNTU5MTMz","lastName":"Schade","numRatings":1,"school":{"id":"U2Nob29sLTE3NzQ4","name":"Community College of Vermont - Bennington"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
-

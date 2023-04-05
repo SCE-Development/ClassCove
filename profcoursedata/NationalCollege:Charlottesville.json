@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTI1MTQ=","name":"National College: Charlottesville"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"ACCT01"}],"department":"Business","firstName":"H","id":"VGVhY2hlci05MTMyNDk=","lastName":"Albert","numRatings":1,"school":{"id":"U2Nob29sLTI1MTQ=","name":"National College: Charlottesville"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

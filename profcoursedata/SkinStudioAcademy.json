@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE4MjE2","name":"Skin Studio Academy"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":1,"courseCodes":[{"courseCount":2,"courseName":"ESTHETICS101"}],"department":"Education","firstName":"Dana","id":"VGVhY2hlci0yNjgzOTU0","lastName":"Ware","numRatings":2,"school":{"id":"U2Nob29sLTE4MjE2","name":"Skin Studio Academy"},"wouldTakeAgainPercent":0}}],"resultCount":1}}}}
-

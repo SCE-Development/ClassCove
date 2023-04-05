@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE0MDky","name":"Virginia College - Columbia"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3.5,"avgRating":1,"courseCodes":[{"courseCount":1,"courseName":"ENG108"},{"courseCount":2,"courseName":"ENGL108"}],"department":"English","firstName":"Alayna","id":"VGVhY2hlci0yNDgwNjYx","lastName":"Becker","numRatings":2,"school":{"id":"U2Nob29sLTE0MDky","name":"Virginia College - Columbia"},"wouldTakeAgainPercent":33.3333}}],"resultCount":1}}}}
-

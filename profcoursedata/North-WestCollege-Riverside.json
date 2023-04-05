@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE4MDIw","name":"North-West College - Riverside"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3,"avgRating":5,"courseCodes":[{"courseCount":2,"courseName":"NWC16"}],"department":"Medicine","firstName":"Jennifer","id":"VGVhY2hlci0yNTk4MDYy","lastName":"Holecek","numRatings":1,"school":{"id":"U2Nob29sLTE4MDIw","name":"North-West College - Riverside"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
-

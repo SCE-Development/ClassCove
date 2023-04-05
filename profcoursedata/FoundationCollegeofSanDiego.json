@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTIwODA=","name":"Foundation College of San Diego"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Computer Science","firstName":"Paul","id":"VGVhY2hlci0yMTcwOTg=","lastName":"Adams","numRatings":0,"school":{"id":"U2Nob29sLTIwODA=","name":"Foundation College of San Diego"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

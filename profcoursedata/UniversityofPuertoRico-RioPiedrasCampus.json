@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE3OTc4","name":"University of Puerto Rico - Rio Piedras Campus"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"English","firstName":"Frank","id":"VGVhY2hlci0yNjI2MDQ2","lastName":"Flanagan","numRatings":0,"school":{"id":"U2Nob29sLTE3OTc4","name":"University of Puerto Rico - Rio Piedras Campus"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

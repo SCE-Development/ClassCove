@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE4MDg4","name":"Eastern Kentucky University"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":1,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"PSY200"}],"department":"Psychology","firstName":"James","id":"VGVhY2hlci0yNjMwMDk5","lastName":"Davis","numRatings":1,"school":{"id":"U2Nob29sLTE4MDg4","name":"Eastern Kentucky University"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
-

@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE3NDcw","name":"St. Bonaventure University - Olean"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":2,"avgRating":5,"courseCodes":[{"courseCount":1,"courseName":"PHIL101"}],"department":"Philosophy","firstName":"Alex","id":"VGVhY2hlci0yNjk2OTEx","lastName":"Gillham","numRatings":1,"school":{"id":"U2Nob29sLTE3NDcw","name":"St. Bonaventure University - Olean"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
-

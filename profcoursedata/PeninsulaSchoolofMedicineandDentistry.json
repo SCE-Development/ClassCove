@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE2NDc5","name":"Peninsula School of Medicine and Dentistry"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Medicine","firstName":"Adele","id":"VGVhY2hlci0yMjQwODk2","lastName":"Hill","numRatings":0,"school":{"id":"U2Nob29sLTE2NDc5","name":"Peninsula School of Medicine and Dentistry"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

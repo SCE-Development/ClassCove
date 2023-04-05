@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE2NDk4","name":"J. Mack Robinson College of Business"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[{"courseCount":1,"courseName":"MBA8110"}],"department":"Business","firstName":"Nate","id":"VGVhY2hlci0yNTI3MjI1","lastName":"Bennett","numRatings":0,"school":{"id":"U2Nob29sLTE2NDk4","name":"J. Mack Robinson College of Business"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-

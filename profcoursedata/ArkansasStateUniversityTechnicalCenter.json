@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTEzMTk4","name":"Arkansas State University Technical Center"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":3.5,"avgRating":3,"courseCodes":[{"courseCount":1,"courseName":"2083D225"},{"courseCount":1,"courseName":"HIST2083"}],"department":"History","firstName":"Stephanie","id":"VGVhY2hlci0xODQyNzUy","lastName":"Turner","numRatings":2,"school":{"id":"U2Nob29sLTEzMTk4","name":"Arkansas State University Technical Center"},"wouldTakeAgainPercent":100}}],"resultCount":1}}}}
-

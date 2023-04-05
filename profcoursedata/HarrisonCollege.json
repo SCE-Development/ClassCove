@@ -1,2 +1,0 @@
-{"data":{"school":{"id":"U2Nob29sLTE0NjM5","name":"Harrison College"},"search":{"teachers":{"edges":[{"cursor":"YXJyYXljb25uZWN0aW9uOjA=","node":{"__typename":"Teacher","avgDifficulty":0,"avgRating":0,"courseCodes":[],"department":"Mathematics","firstName":"Brook","id":"VGVhY2hlci0yNTg4Nzkw","lastName":"Cole","numRatings":0,"school":{"id":"U2Nob29sLTE0NjM5","name":"Harrison College"},"wouldTakeAgainPercent":-1}}],"resultCount":1}}}}
-
