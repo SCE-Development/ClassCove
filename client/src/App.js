@@ -1,5 +1,5 @@
-import React from 'react';
 import { Link, Routes, Route, useNavigate, BrowserRouter } from 'react-router-dom';
+import React from 'react';
 import logo from './logo.svg';
 import Register from './Components/Register';
 import Login from './Components/Login';
@@ -13,23 +13,17 @@ function Root() {
 
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>ClassCove</h1>
-        <div className="App-header-buttons">
-          
-          <button className="App-register-button" onClick={() => navigate('/dashboard')}>Home</button>
-
-          <button className="App-login-button" onClick={() => navigate('/login')}>Login</button>
-          
-          <button className="App-register-button" onClick={() => navigate('/register')}>Sign Up</button>
-
-          
+      <div className="nav-container">
+        <div className="name-container">
+          <h1 id="navbar-logo" onClick={() => navigate('')}>ClassCove</h1>
         </div>
-      </header>
-      <img src={logo} className="App-logo" alt="logo" />
-      <div className="App-buttons">
-        
+        <div login-register-container>
+          <a class="login-register" onClick={() => navigate('/register')}> <button id="register-button" class="navbar-button"><p id="register-text">Register</p></button></a>
+          <a class="login-register" onClick={() => navigate('/login')}><button id="login-button" class="navbar-button"><span>Sign In</span></button></a>
+        </div>
+
       </div>
+
       
       <Routes>
         <Route path="/" element={<Dashboard />} />

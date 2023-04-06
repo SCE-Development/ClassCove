@@ -46,20 +46,22 @@ function Dashboard() {
                 type="text/css"
             ></link>
             <h1>Ready to start planning, {userName}? </h1>
-            <div className="dashboard-block">
-                <div className="school">
-                    <h2>Select a school</h2>
-                    <select className="dropdown">
-                        <option>populate with schools</option>
-                    </select>
+            <div className="dashboard-section">
+                <div className="dashboard-container">
+                    <div className="school">
+                        <h2>Select a school</h2>
+                        <select className="dropdown">
+                            <option>Select your school...</option>
+                        </select>
+                    </div>
+                    <div className="course">
+                        <h2>Select a course</h2>
+                        <select className="dropdown">
+                            <option>Select a course...</option>
+                        </select>
+                    </div>
+                    <button onClick={() => logout()}> Log out </button>
                 </div>
-                <div className="course">
-                    <h2>Select a course</h2>
-                    <select className="dropdown">
-                        <option>populate with courses</option>
-                    </select>
-                </div>
-                <button onClick={() => logout()}> Log out </button>
             </div>
         </div>
     );
