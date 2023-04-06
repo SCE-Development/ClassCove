@@ -11,7 +11,8 @@ const app = express();
 const cors = require("cors");
 app.use(cors());
 app.use(express.json());
-app.use(require("./routes/router"));
+app.use(require("./routes/userRouter"));
+app.use(require("./routes/courseRouter"));
 
 // Connects to Mongo
 connectDB();
@@ -20,7 +21,7 @@ app.listen(PORT, () => {
     console.log(`Server listening at port: ${PORT}`);
 });
 
-// authentication 
+// authentication
 const path = require("path");
 
 const session = require("express-session");
@@ -38,32 +39,32 @@ app.use(express.urlencoded({ extended: false }));
 
 // use local strategy: authentication with username and password
 passport.use(
-    new LocalStrategy(async(username, password, done) => {
-      try {
-        const user = await User.findOne({ username: username });
-        if (!user) {
-          return done(null, false, { message: "Incorrect username" });
-        };
-        if (user.password !== password) {
-          return done(null, false, { message: "Incorrect password" });
-        };
-        return done(null, user);
-      } catch(err) {
-        return done(err);
-      }
+    new LocalStrategy(async (username, password, done) => {
+        try {
+            const user = await User.findOne({ username: username });
+            if (!user) {
+                return done(null, false, { message: "Incorrect username" });
+            }
+            if (user.password !== password) {
+                return done(null, false, { message: "Incorrect password" });
+            }
+            return done(null, user);
+        } catch (err) {
+            return done(err);
+        }
     })
-)
+);
 
-// these functions let users stay logged in on every page 
-passport.serializeUser(function(user, done) {
+// these functions let users stay logged in on every page
+passport.serializeUser(function (user, done) {
     done(null, user.id);
 });
-  
-passport.deserializeUser(async function(id, done) {
+
+passport.deserializeUser(async function (id, done) {
     try {
         const user = await User.findById(id);
         done(null, user);
-    } catch(err) {
+    } catch (err) {
         done(err);
-    };
+    }
 });
