@@ -2,14 +2,17 @@ import { useState, useEffect } from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 import "../stylesheets/login.css";
+import CourseSelector from "./CourseSelector";
 
 function Dashboard() {
     const navigate = useNavigate();
     const [userName, setUserName] = useState("");
+    const [courses, setCourses] = useState([]);
+
+    // use this map to display data about professors
+    const [courseProfMap, setCourseProfMap] = useState({});
 
     useEffect(() => {
-        console.log(document.cookie);
-
         async function getUser() {
             // return user from express route using session cookie
             let loggedIn = await axios.post(
@@ -38,6 +41,45 @@ function Dashboard() {
         });
     }
 
+    async function getCourses(event) { 
+        let university = event.target.value;
+        let url = await fetch(`http://localhost:3000/${university}Courses.json`); 
+        let data = await url.json();
+
+        data = data["data"]; 
+        let edges = data["search"]["teachers"]["edges"]; 
+
+        let courseToProf = {};  
+        let allCourses = new Set(); 
+
+        for (let edge of edges) { 
+            let courses = edge["node"]["courseCodes"]; 
+            let professor = edge["node"]
+
+            courses.forEach( (course) => { 
+                // do not add classes with names that start with a digit
+                course = course["courseName"];
+                if ( !(course.charAt(0) >= '0' && course.charAt(0) <= '9') ) {
+                    if ( !(course in courseToProf) ) {
+                        courseToProf[course] = []; 
+                        allCourses.add(course);
+                    }
+
+                    // add the professor to this course 
+                    courseToProf[course].push(professor);
+                }
+            });
+        }
+
+        // alphabetically sort every course, converting to array first
+        allCourses = Array.from(allCourses);
+        allCourses.sort();
+
+        setCourses(allCourses);
+        setCourseProfMap(courseToProf);
+        console.log(courseToProf);
+    }
+
     return (
         <div>
             <link
@@ -50,16 +92,13 @@ function Dashboard() {
                 <div className="dashboard-container">
                     <div className="school">
                         <h2>Select a school</h2>
-                        <select className="dropdown">
-                            <option>Select your school...</option>
+                        <select onChange={(event) => getCourses(event)} className="dropdown">
+                            <option>Select a School</option>
+                            <option>SJSU</option>
                         </select>
                     </div>
-                    <div className="course">
-                        <h2>Select a course</h2>
-                        <select className="dropdown">
-                            <option>Select a course...</option>
-                        </select>
-                    </div>
+                    <CourseSelector courses = {courses} />
+
                     <button onClick={() => logout()}> Log out </button>
                 </div>
             </div>

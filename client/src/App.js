@@ -20,8 +20,8 @@ function Root() {
           <h1 id="navbar-logo" onClick={() => navigate('/dashboard')}>ClassCove</h1>
         </div>
         <div className="login-register-container">
-          <a class="login-register" onClick={() => navigate('/register')}> <button id="register-button" class="navbar-button"><p id="register-text">Register</p></button></a>
-          <a class="login-register" onClick={() => navigate('/login')}><button id="login-button" class="navbar-button"><span>Sign In</span></button></a>
+          <a className="login-register" onClick={() => navigate('/register')}> <button id="register-button" class="navbar-button"><p id="register-text">Register</p></button></a>
+          <a className="login-register" onClick={() => navigate('/login')}><button id="login-button" class="navbar-button"><span>Sign In</span></button></a>
         </div>
 
       </div>
