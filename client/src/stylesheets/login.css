@@ -2,9 +2,6 @@
     display: none;
 }
 
-.hidden {
-    display: none;
-}
 
 body {
     background-size: cover;
@@ -132,4 +129,8 @@ body {
     border: black solid 3px;
     border-radius: 5%;
     box-shadow: 10px 5px 5px grey;
+}
+
+.guest-link {
+    margin-top: 10px;
 }

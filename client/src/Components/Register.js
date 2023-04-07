@@ -1,6 +1,6 @@
 // replace the form action with a real url when ready
 import axios from "axios";
-import { useNavigate } from "react-router-dom";
+import { useNavigate, Link } from "react-router-dom";
 import { useState } from "react";
 import "../stylesheets/login.css";
 
@@ -52,18 +52,22 @@ function Register() {
                 <label htmlFor="username">Username</label>
                 <input
                     name="username"
-                    placeholder="username"
+                    placeholder="Username"
                     type="text"
                     id="username"
                 />
                 <label htmlFor="password">Password</label>
                 <input
                     name="password"
-                    placeholder="password"
+                    placeholder="Password"
                     type="password"
                     id="password"
                 />
                 <button onClick={() => sendRegistration()}>Sign Up</button>
+
+                <div className="guest-link">
+                    <Link to="/dashboard">Continue as Guest</Link>
+                </div>
             </div>
         </div>
     );

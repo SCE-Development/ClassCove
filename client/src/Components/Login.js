@@ -36,17 +36,17 @@ function Login() {
                 <p>Invalid username or password</p>
             </div>
 
-            <div className="login-block">
-                <h1>Login</h1>
+            <div className="login-block" >
+                <h1>Log In</h1>
                 <input
                     type="text"
-                    placeholder="username"
+                    placeholder="Username"
                     id="username"
                     name="username"
                 />
                 <input
                     type="password"
-                    placeholder="password"
+                    placeholder="Password"
                     id="password"
                     name="username"
                 />
