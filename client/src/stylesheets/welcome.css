@@ -26,10 +26,21 @@
     border-top-left-radius: 30px;
   }
 
+  .sidebar:not(:hover) strong {
+    font-size: 18px;
+    transition: all ease-in-out 200ms;
+  }
+
+  .sidebar:hover strong {
+    font-size: 20px;
+    transition: all ease-in-out 200ms;
+  }
+
   .sidebar strong {
     margin-left: 13px;
     font-size: 18px;
   }
+
   
   .content {
     margin-left: -10px;
