@@ -21,6 +21,7 @@
   
   .sidebar:hover {
     width: 150px;
+    height: 405px;
     background-color: #ecb7b7;
     border-bottom-left-radius: 30px;
     border-top-left-radius: 30px;
