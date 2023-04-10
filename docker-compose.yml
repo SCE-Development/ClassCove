@@ -1,0 +1,26 @@
+version: "3.7"
+services:
+  server:
+    container_name: server
+    image: node-server
+    build: ./server
+    ports:
+      - "7500:7500"
+    links:
+      - mongo
+  mongo:
+    container_name: mongo
+    image: mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      # mounts database files to the local docker filesystem so they persist 
+      - ./data:/data/db
+  client:
+    container_name: client
+    image: node-client
+    build: ./client
+    ports:
+      - "3000:3000"
+    links:
+      - server
