@@ -4,12 +4,16 @@ import { useNavigate } from "react-router-dom";
 import "../stylesheets/login.css";
 import CourseSelector from "./CourseSelector";
 
+import { Link } from 'react-router-dom'
+
 function Dashboard() {
     const navigate = useNavigate();
     const [userName, setUserName] = useState("");
     const [courses, setCourses] = useState([]);
 
     // use this map to display data about professors
+    const [course, setCourse] = useState("");
+    const [professors, setProfessors] = useState("");
     const [courseProfMap, setCourseProfMap] = useState({});
 
     useEffect(() => {
@@ -77,6 +81,7 @@ function Dashboard() {
 
         setCourses(allCourses);
         setCourseProfMap(courseToProf);
+
         console.log(courseToProf);
     }
 
@@ -97,9 +102,15 @@ function Dashboard() {
                             <option>SJSU</option>
                         </select>
                     </div>
-                    <CourseSelector courses = {courses} />
+                    
+                    <CourseSelector courses={courses} setCourse={setCourse} courseProfMap={courseProfMap} 
+                        setProfessors={setProfessors} />
 
                     <button onClick={() => logout()}> Log out </button>
+                    
+                    <Link to="/professors" state={{professors: professors, course: course}}> 
+                        Search Professors
+                    </Link>
                 </div>
             </div>
         </div>
