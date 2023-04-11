@@ -4,10 +4,9 @@ import { useNavigate } from "react-router-dom";
 
 function Recommendation() { 
     const location = useLocation(); 
-    const navigate = useNavigate() 
 
-    const [professors, setProfessors] = useState([{"default": "No professors found"}]);
-    const [course, setCourse] = useState("No Course");
+    const [professors, setProfessors] = useState([]);
+    const [course, setCourse] = useState("");
 
     useEffect(() => { 
         console.log(location.state);
@@ -15,10 +14,25 @@ function Recommendation() {
         setCourse(location.state.course);
     }, [])
 
+    function professorRecs() { 
+        if (professors != []) 
+            return professors.map(prof => (
+                <div> 
+                    <p key={prof.firstName + " " + prof.lastName}>{prof.firstName + " " + prof.lastName}</p>
+                    <p key={`${prof.firstName + " " + prof.lastName + "rating"}`}>Rating: {prof.avgRating}</p>
+                    <p key={`${prof.firstName + " " + prof.lastName + "wouldTakeAgain"}`}>
+                        Would take again: {prof.wouldTakeAgainPercent} 
+                    </p>
+                </div>
+            ))
+
+        return <p>No professors found</p>    
+    }
+
     return(
         <div>
             <p>Try these professors for {course}</p>
-            {professors.map(prof => (<p key={prof.firstName + " " + prof.lastName}>{prof.firstName + " " + prof.lastName}</p>))} 
+            {professorRecs()}
         </div>
     )
 }
