@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './App.css';
 import reportWebVitals from './reportWebVitals';
-import Router from "./Router.js";
 import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

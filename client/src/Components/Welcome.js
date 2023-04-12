@@ -1,8 +1,6 @@
-import { Link, Routes, Route, useNavigate, BrowserRouter } from 'react-router-dom';
 import { React, useState } from 'react';
 import Login from './Login';
 import Register from './Register';
-import Dashboard from './Dashboard';
 import "../stylesheets/login.css";
 import "../stylesheets/welcome.css";
 
