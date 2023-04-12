@@ -21,7 +21,6 @@ body {
     padding: 20px;
     background: #fff;
     border-radius: 5px;
-    border-top: 5px solid #ff656c;
     margin: 0 auto;
 }
 
@@ -131,6 +130,6 @@ body {
     box-shadow: 10px 5px 5px grey;
 }
 
-.guest-link {
+.link {
     margin-top: 10px;
 }
