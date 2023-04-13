@@ -1,6 +1,6 @@
 import {useEffect, useState} from "react"; 
 import { useLocation } from 'react-router-dom'
-import "../stylesheets/login.css";
+import { useNavigate } from "react-router-dom";
 
 function Recommendation() { 
     const location = useLocation(); 

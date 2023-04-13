@@ -52,7 +52,6 @@ function Login() {
                 />
                 <button onClick={() => sendLogIn()}>Log In</button>
 
-                <a href="/register">Get me to that 💰💰💰💰 register</a>
             </div>
         </div>
     );

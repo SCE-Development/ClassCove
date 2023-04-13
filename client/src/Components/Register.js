@@ -49,23 +49,21 @@ function Register() {
             </div>
             <div className="register-block">
                 <h1>Sign Up</h1>
-                <label htmlFor="username">Username</label>
                 <input
                     name="username"
                     placeholder="Username"
                     type="text"
                     id="username"
                 />
-                <label htmlFor="password">Password</label>
                 <input
                     name="password"
                     placeholder="Password"
                     type="password"
                     id="password"
                 />
-                <button onClick={() => sendRegistration()}>Sign Up</button>
+                <button onClick={() => sendRegistration()}>Create Account</button>
 
-                <div className="guest-link">
+                <div className="link">
                     <Link to="/dashboard">Continue as Guest</Link>
                 </div>
             </div>
