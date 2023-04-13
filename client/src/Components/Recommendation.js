@@ -16,7 +16,7 @@ function Recommendation() {
     }, [location.state])
 
     function professorRecs() { 
-        if (professors !== []) 
+        if (course !== "") 
             return professors.map(prof => (
                 <div> 
                     <p key={prof.firstName + " " + prof.lastName}>{prof.firstName + " " + prof.lastName}</p>
