@@ -9,7 +9,7 @@ function Register() {
     const [errorVisible, setErrorVisible] = useState("hidden");
 
     async function sendLogIn() {
-        let result = await axios.post("http://localhost:6969/user/log-in", {
+        let result = await axios.post("http://node-server:6969/user/log-in", {
             username: document.getElementById("username").value,
             password: document.getElementById("password").value,
         });
@@ -26,7 +26,7 @@ function Register() {
 
     async function sendRegistration() {
         let registration = await axios.post(
-            "http://localhost:6969/user/sign-up",
+            "http://node-server:6969/user/sign-up",
             {
                 username: document.getElementById("username").value,
                 password: document.getElementById("password").value,

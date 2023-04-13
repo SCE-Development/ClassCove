@@ -8,7 +8,7 @@ const { getDB } = require("../db/conn");
 const ObjectId = require("mongodb").ObjectId;
 
 async function signUp(req, res, next) {
-    await mongoose.connect("mongodb://localhost:27017/ClassCove");
+    await mongoose.connect("mongodb://mongo:27017/ClassCove");
     await console.log(req.body);
 
     try {

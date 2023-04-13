@@ -12,9 +12,5 @@ RUN npm install --silent
 # copies the rest of the app
 COPY . /usr/src/app
 
-# exposes port 7500 and 6969 for express
-EXPOSE 7500
-EXPOSE 6969
-
 # runs server.js
 CMD ["server.js"]
