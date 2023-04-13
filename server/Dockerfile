@@ -12,5 +12,7 @@ RUN npm install --silent
 # copies the rest of the app
 COPY . /usr/src/app
 
+EXPOSE 6969
+
 # runs server.js
 CMD ["server.js"]

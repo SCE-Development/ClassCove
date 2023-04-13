@@ -20,7 +20,7 @@ function Dashboard() {
         async function getUser() {
             // return user from express route using session cookie
             let loggedIn = await axios.post(
-                "http://node-server:6969/user/isLoggedIn",
+                "http://localhost:6969/user/isLoggedIn",
                 {
                     session: document.cookie,
                 }
@@ -40,14 +40,14 @@ function Dashboard() {
 
     async function logout() {
         navigate("/login");
-        await axios.post("http://node-server:6969/user/logout", {
+        await axios.post("http://localhost:6969/user/logout", {
             session: document.cookie,
         });
     }
 
     async function getCourses(event) {
         let university = event.target.value;
-        let url = await fetch(`http://172.18.0.0:3000/${university}Courses.json`);
+        let url = await fetch(`http://localhost:3000/${university}Courses.json`);
         let data = await url.json();
 
         data = data["data"];

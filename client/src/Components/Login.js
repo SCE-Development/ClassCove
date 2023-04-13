@@ -8,7 +8,7 @@ function Login() {
     const [errorVisible, setErrorVisible] = useState("hidden");
 
     async function sendLogIn() {
-        let result = await axios.post("http://node-server:6969/user/log-in", {
+        let result = await axios.post("http://localhost:6969/user/log-in", {
             username: document.getElementById("username").value,
             password: document.getElementById("password").value,
         });
