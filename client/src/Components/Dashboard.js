@@ -92,7 +92,7 @@ function Dashboard() {
                 rel="stylesheet"
                 type="text/css"
             ></link>
-            <h1>Ready to start planning, {userName}? </h1>
+            <h1 className="title">Ready to start planning, {userName}? </h1>
             <div className="dashboard-section">
                 <div className="dashboard-container">
                     <div className="school">

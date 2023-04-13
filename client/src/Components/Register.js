@@ -61,7 +61,7 @@ function Register() {
                     type="password"
                     id="password"
                 />
-                <button onClick={() => sendRegistration()}>Sign Up</button>
+                <button onClick={() => sendRegistration()}>Create Account</button>
 
                 <div className="link">
                     <Link to="/dashboard">Continue as Guest</Link>

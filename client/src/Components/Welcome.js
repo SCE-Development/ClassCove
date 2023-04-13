@@ -52,12 +52,15 @@ function Welcome() {
 
   return (
     <div className="wrapper">
+      <div id="block">
       {onLogin === "onLogin" && (
         <div
           className="sidebar-left"
           onClick={() => {
             leftDisappear();
-            setTimeout(() => sidebarOnLeft(), 200);
+            setTimeout(() => {
+              sidebarOnLeft();
+            }, 200);
           }}
           style={{ display: onLogin === "onLogin" ? "block" : "none" }}
         >
@@ -76,7 +79,9 @@ function Welcome() {
           className="sidebar-right"
           onClick={() => {
             rightDisappear();
-            setTimeout(() => sidebarOnLeft(), 200);
+            setTimeout(() => {
+              sidebarOnLeft();
+            }, 200);
           }}
           style={{ display: onLogin === "onLogin" ? "none" : "block" }}
         >
@@ -85,6 +90,7 @@ function Welcome() {
           </div>
         </div>
       )}
+      </div>
     </div>
   );
 }

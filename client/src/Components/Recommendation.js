@@ -1,6 +1,7 @@
 import {useEffect, useState} from "react"; 
 import { useLocation } from 'react-router-dom'
 import { useNavigate } from "react-router-dom";
+import "../stylesheets/login.css";
 
 function Recommendation() { 
     const location = useLocation(); 
@@ -15,7 +16,7 @@ function Recommendation() {
     }, [])
 
     function professorRecs() { 
-        if (professors != []) 
+        if (professors !== []) 
             return professors.map(prof => (
                 <div> 
                     <p key={prof.firstName + " " + prof.lastName}>{prof.firstName + " " + prof.lastName}</p>
