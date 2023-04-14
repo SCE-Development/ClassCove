@@ -26,7 +26,7 @@ function Register() {
 
     async function sendRegistration() {
         let registration = await axios.post(
-            "http://server:6969/user/sign-up",
+            "http://localhost:6969/user/sign-up",
             {
                 username: document.getElementById("username").value,
                 password: document.getElementById("password").value,
