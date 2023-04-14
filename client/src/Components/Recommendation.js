@@ -1,7 +1,7 @@
 import {useEffect, useState} from "react"; 
 import { useLocation } from 'react-router-dom'
-import { useNavigate } from "react-router-dom";
-import "../stylesheets/login.css";
+import React from 'react'
+import Select from 'react-select'
 
 function Recommendation() { 
     const location = useLocation(); 
@@ -13,16 +13,16 @@ function Recommendation() {
         console.log(location.state);
         setProfessors(location.state.professors); 
         setCourse(location.state.course);
-    }, [])
+    }, [location.state])
 
     function professorRecs() { 
-        if (professors !== []) 
+        if (course !== "") 
             return professors.map(prof => (
                 <div> 
                     <p key={prof.firstName + " " + prof.lastName}>{prof.firstName + " " + prof.lastName}</p>
                     <p key={`${prof.firstName + " " + prof.lastName + "rating"}`}>Rating: {prof.avgRating}</p>
                     <p key={`${prof.firstName + " " + prof.lastName + "wouldTakeAgain"}`}>
-                        Would take again: {prof.wouldTakeAgainPercent} 
+                        Would take again: {Math.max(prof.wouldTakeAgainPercent, 0)}% 
                     </p>
                 </div>
             ))

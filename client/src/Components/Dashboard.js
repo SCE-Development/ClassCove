@@ -45,27 +45,27 @@ function Dashboard() {
         });
     }
 
-    async function getCourses(event) { 
+    async function getCourses(event) {
         let university = event.target.value;
-        let url = await fetch(`http://localhost:3000/${university}Courses.json`); 
+        let url = await fetch(`http://localhost:3000/${university}Courses.json`);
         let data = await url.json();
 
-        data = data["data"]; 
-        let edges = data["search"]["teachers"]["edges"]; 
+        data = data["data"];
+        let edges = data["search"]["teachers"]["edges"];
 
-        let courseToProf = {};  
-        let allCourses = new Set(); 
+        let courseToProf = {};
+        let allCourses = new Set();
 
-        for (let edge of edges) { 
-            let courses = edge["node"]["courseCodes"]; 
+        for (let edge of edges) {
+            let courses = edge["node"]["courseCodes"];
             let professor = edge["node"]
 
-            courses.forEach( (course) => { 
+            courses.forEach((course) => {
                 // do not add classes with names that start with a digit
                 course = course["courseName"];
-                if ( !(course.charAt(0) >= '0' && course.charAt(0) <= '9') ) {
-                    if ( !(course in courseToProf) ) {
-                        courseToProf[course] = []; 
+                if (!(course.charAt(0) >= '0' && course.charAt(0) <= '9')) {
+                    if (!(course in courseToProf)) {
+                        courseToProf[course] = [];
                         allCourses.add(course);
                     }
 
@@ -102,13 +102,13 @@ function Dashboard() {
                             <option>SJSU</option>
                         </select>
                     </div>
-                    
-                    <CourseSelector courses={courses} setCourse={setCourse} courseProfMap={courseProfMap} 
+
+                    <CourseSelector courses={courses} setCourse={setCourse} courseProfMap={courseProfMap}
                         setProfessors={setProfessors} />
 
                     <button onClick={() => logout()}> Log out </button>
-                    
-                    <Link to="/professors" state={{professors: professors, course: course}}> 
+
+                    <Link to="/professors" state={{ professors: professors, course: course }}>
                         Search Professors
                     </Link>
                 </div>
