@@ -4,11 +4,16 @@ const UserSession = require("../models/UserSession");
 const mongoose = require("mongoose");
 const bcrypt = require("bcrypt");
 const { getDB } = require("../db/conn");
+const { urlencoded } = require("body-parser");
 // This help convert the id from string to ObjectId for the _id.
 const ObjectId = require("mongodb").ObjectId;
 
+// Configure path to .env file
+require("dotenv").config({ path: "./config.env" });
+const url = `${process.env.DB_URI}/ClassCove`;
+
 async function signUp(req, res, next) {
-    await mongoose.connect("mongodb://localhost:27017/ClassCove");
+    await mongoose.connect(url);
     await console.log(req.body);
 
     try {

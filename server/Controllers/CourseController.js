@@ -25,4 +25,9 @@ async function getByProf(req, res, next) {
     res.send(courses);
 }
 
+function sortCourses()
+{
+    
+}
+
 module.exports = { getCourse, getByProf };

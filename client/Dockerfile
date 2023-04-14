@@ -14,7 +14,6 @@ COPY . /usr/src/app
 
 # exposes port 3000 for react app and 6969 for express
 EXPOSE 3000
-EXPOSE 6969
 
 # runs react app
 CMD ["npm", "start"]
