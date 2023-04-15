@@ -6,8 +6,9 @@ services:
         build: ./server
         ports:
             - "6969:6969"
-        links:
-            - mongo
+        networks:
+            - client-backend-network
+            - backend-database-network
     mongo:
         container_name: mongo
         image: mongo
@@ -16,9 +17,16 @@ services:
         volumes:
             # mounts database files to the local docker filesystem so they persist
             - ./mongo-data:/db
+        networks:
+            - backend-database-network
     client:
         container_name: client
         image: node-client
         build: ./client
         ports:
             - "3000:3000"
+        networks:
+            - client-backend-network
+networks:
+    client-backend-network:
+    backend-database-network:

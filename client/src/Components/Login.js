@@ -8,7 +8,7 @@ function Login() {
     const [errorVisible, setErrorVisible] = useState("hidden");
 
     async function sendLogIn() {
-        let result = await axios.post("http://localhost:6969/user/log-in", {
+        let result = await axios.post("http://server:6969/user/log-in", {
             username: document.getElementById("username").value,
             password: document.getElementById("password").value,
         });
@@ -36,7 +36,7 @@ function Login() {
                 <p>Invalid username or password</p>
             </div>
 
-            <div className="login-block" >
+            <div className="login-block">
                 <h1>Log In</h1>
                 <input
                     type="text"
@@ -51,7 +51,6 @@ function Login() {
                     name="username"
                 />
                 <button onClick={() => sendLogIn()}>Log In</button>
-
             </div>
         </div>
     );

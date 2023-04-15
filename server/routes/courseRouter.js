@@ -13,7 +13,7 @@ const ObjectId = require("mongodb").ObjectId;
 const courseController = require("../Controllers/CourseController");
 
 // Search by school
-// EX: localhost:6969/courses/berkeley
+// EX: server:6969/courses/berkeley
 courseRouter.get("/courses/:school", async (req, res) => {
     const db = await getDB();
     const courses = await db.collection(req.params.school).find().toArray();
@@ -22,7 +22,7 @@ courseRouter.get("/courses/:school", async (req, res) => {
 
 // Search by professor
 // Returns professor info and all courses taught by the professor
-// EX: localhost:6969/courses/berkeley/professors/John%20Doe
+// EX: server:6969/courses/berkeley/professors/John%20Doe
 courseRouter.get(
     "/courses/:school/professors/:firstName/:lastName/",
     async (req, res) => {
@@ -32,7 +32,7 @@ courseRouter.get(
 
 // Search by course code
 // Returns all professors that teach the course
-// EX: localhost:6969/courses/berkeley/CS100
+// EX: server:6969/courses/berkeley/CS100
 courseRouter.get("/courses/:school/:courseCode/", async (req, res) => {
     await courseController.getCourse(req, res);
 });
