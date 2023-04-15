@@ -14,10 +14,7 @@ function Dashboard() {
     // use this map to display data about professors
     const [course, setCourse] = useState("");
     const [professors, setProfessors] = useState("");
-    const [courseProfMap, setCourseProfMap] = useState({});
-
-    const [departments, setDepartments] = useState(new Set()); 
-    
+    const [courseProfMap, setCourseProfMap] = useState({});    
 
     useEffect(() => {
         async function getUser() {
