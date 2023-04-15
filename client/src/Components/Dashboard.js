@@ -16,6 +16,9 @@ function Dashboard() {
     const [professors, setProfessors] = useState("");
     const [courseProfMap, setCourseProfMap] = useState({});
 
+    const [departments, setDepartments] = useState(new Set()); 
+    
+
     useEffect(() => {
         async function getUser() {
             // return user from express route using session cookie
@@ -109,7 +112,7 @@ function Dashboard() {
                     <button onClick={() => logout()}> Log out </button>
 
                     <Link to="/professors" state={{ professors: professors, course: course }}>
-                        Search Professors
+                        Search Professorsss
                     </Link>
                 </div>
             </div>

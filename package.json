@@ -10,6 +10,8 @@
     "passport": "^0.6.0",
     "passport-local": "^1.0.0",
     "react-router-dom": "^6.9.0",
-    "react-select": "^5.7.2"
+    "react-select": "^5.7.2",
+    "react-select-fast-filter-options": "^0.2.3",
+    "react-select-virtualized": "^5.3.0"
   }
 }
