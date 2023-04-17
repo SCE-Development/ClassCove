@@ -52,7 +52,7 @@ async function login(req, res, next) {
     if (await bcrypt.compare(req.body.password, userData.password)) {
         console.log("logged in");
 
-        let cookieValue = await bcrypt.hash("keyword", 10);
+        let cookieValue = bcrypt.hash("keyword", 10);
         console.log("user id: " + userData._id);
         res.cookie("loginToken", cookieValue).send({
             user: userData,

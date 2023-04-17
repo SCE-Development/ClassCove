@@ -19,7 +19,7 @@ function CourseSelector(props) {
         }
 
         setSelectOptions(options);
-        console.log(options);
+        console.log("options" + options);
 
         let depsCourseNumbers = getDepsCourseNums(props.courses); 
         setDepsCourseNums(depsCourseNumbers); 
