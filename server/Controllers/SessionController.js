@@ -96,7 +96,6 @@ async function isLoggedIn(req, res, next) {
             res.send({ success: true, userName: user.username });
             return;
         }
-        res.send({ success: false });
     } catch {
         res.send({ success: false });
         return;

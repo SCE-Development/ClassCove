@@ -22,7 +22,7 @@ function Dashboard() {
             let loggedIn = await axios.post(
                 "http://localhost:6969/user/isLoggedIn",
                 {
-                    session: document.cookie,
+                    session: sessionStorage.getItem("sessionId"),
                 }
             );
             loggedIn = loggedIn["data"];
@@ -41,7 +41,7 @@ function Dashboard() {
     async function logout() {
         navigate("/login");
         await axios.post("http://localhost:6969/user/logout", {
-            session: document.cookie,
+            session: sessionStorage.getItem("sessionId"),
         });
     }
 

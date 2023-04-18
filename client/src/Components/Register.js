@@ -18,7 +18,8 @@ function Register() {
 
         if (result["data"]["success"]) {
             // save cookie, then redirect to dashboard
-            document.cookie = result["data"]["cookie"];
+            //document.cookie = result["data"]["cookie"];
+            sessionStorage.setItem("sessionId", result["data"]["cookie"]);
             navigate("/dashboard");
             console.log("redirect");
         }
