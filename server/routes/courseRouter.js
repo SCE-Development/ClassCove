@@ -7,17 +7,12 @@ const courseRouter = express.Router();
 
 const { getDB } = require("../db/conn");
 
-// This help convert the id from string to ObjectId for the _id.
-const ObjectId = require("mongodb").ObjectId;
-
 const courseController = require("../Controllers/CourseController");
 
 // Search by school
 // EX: localhost:6969/courses/berkeley
 courseRouter.get("/courses/:school", async (req, res) => {
-    const db = await getDB();
-    const courses = await db.collection(req.params.school).find().toArray();
-    res.send(courses);
+    courseController.getCourses(req, res);
 });
 
 // Search by professor
@@ -34,7 +29,7 @@ courseRouter.get(
 // Returns all professors that teach the course
 // EX: localhost:6969/courses/berkeley/CS100
 courseRouter.get("/courses/:school/:courseCode/", async (req, res) => {
-    await courseController.getCourse(req, res);
+    await courseController.getByCode(req, res);
 });
 
 module.exports = courseRouter;

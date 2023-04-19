@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 import "../stylesheets/login.css";
 import CourseSelector from "./CourseSelector";
 
-import { Link } from 'react-router-dom'
+import { Link } from "react-router-dom";
 
 function Dashboard() {
     const navigate = useNavigate();
@@ -14,7 +14,7 @@ function Dashboard() {
     // use this map to display data about professors
     const [course, setCourse] = useState("");
     const [professors, setProfessors] = useState("");
-    const [courseProfMap, setCourseProfMap] = useState({});    
+    const [courseProfMap, setCourseProfMap] = useState({});
 
     useEffect(() => {
         async function getUser() {
@@ -32,7 +32,7 @@ function Dashboard() {
                 return;
             }
             // user has no session, boot them to the login page
-            navigate("/login");
+            navigate("/");
         }
 
         getUser();
@@ -47,7 +47,9 @@ function Dashboard() {
 
     async function getCourses(event) {
         let university = event.target.value;
-        let url = await fetch(`http://localhost:3000/${university}Courses.json`);
+        let url = await fetch(
+            `http://localhost:3000/${university}Courses.json`
+        );
         let data = await url.json();
 
         data = data["data"];
@@ -58,18 +60,18 @@ function Dashboard() {
 
         for (let edge of edges) {
             let courses = edge["node"]["courseCodes"];
-            let professor = edge["node"]
+            let professor = edge["node"];
 
             courses.forEach((course) => {
                 // do not add classes with names that start with a digit
                 course = course["courseName"];
-                if (!(course.charAt(0) >= '0' && course.charAt(0) <= '9')) {
+                if (!(course.charAt(0) >= "0" && course.charAt(0) <= "9")) {
                     if (!(course in courseToProf)) {
                         courseToProf[course] = [];
-                        allCourses.add(course);
+                        allCourses.add(course.toUpperCase());
                     }
 
-                    // add the professor to this course 
+                    // add the professor to this course
                     courseToProf[course].push(professor);
                 }
             });
@@ -97,18 +99,28 @@ function Dashboard() {
                 <div className="dashboard-container">
                     <div className="school">
                         <h2>Select a school</h2>
-                        <select onChange={(event) => getCourses(event)} className="dropdown">
+                        <select
+                            onChange={(event) => getCourses(event)}
+                            className="dropdown"
+                        >
                             <option>Select a School</option>
                             <option>SJSU</option>
                         </select>
                     </div>
 
-                    <CourseSelector courses={courses} setCourse={setCourse} courseProfMap={courseProfMap}
-                        setProfessors={setProfessors} />
+                    <CourseSelector
+                        courses={courses}
+                        setCourse={setCourse}
+                        courseProfMap={courseProfMap}
+                        setProfessors={setProfessors}
+                    />
 
                     <button onClick={() => logout()}> Log out </button>
 
-                    <Link to="/professors" state={{ professors: professors, course: course }}>
+                    <Link
+                        to="/professors"
+                        state={{ professors: professors, course: course }}
+                    >
                         Search Professors
                     </Link>
                 </div>
