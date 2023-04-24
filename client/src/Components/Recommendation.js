@@ -13,7 +13,16 @@ function Recommendation() {
         console.log(location.state);
         setProfessors(location.state.professors); 
         setCourse(location.state.course);
+        console.log(location.state.professors[0]);
     }, [location.state])
+
+    function getLink(id) { 
+        // base 64 decode the id
+        id = atob(id); 
+        // first 8 characters should be discarded 
+        id = id.substring(8); 
+        return `https://www.ratemyprofessors.com/professor/${id}`;
+    }
 
     function professorRecs() { 
         if (course !== "") 
@@ -22,8 +31,11 @@ function Recommendation() {
                     <p key={prof.firstName + " " + prof.lastName}>{prof.firstName + " " + prof.lastName}</p>
                     <p key={`${prof.firstName + " " + prof.lastName + "rating"}`}>Rating: {prof.avgRating}</p>
                     <p key={`${prof.firstName + " " + prof.lastName + "wouldTakeAgain"}`}>
-                        Would take again: {Math.max(prof.wouldTakeAgainPercent, 0)}% 
+                        Would take again: {Math.max(prof.wouldTakeAgainPercent, 0)} 
                     </p>
+
+                    <a key={`${prof.firstName + " " + prof.lastName + "link"}`}
+                        href={getLink(prof.id)} >Rate my Professor</a>
                 </div>
             ))
 
