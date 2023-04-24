@@ -49,7 +49,7 @@ function Register() {
                 <p>Oh nah!! That username is TAKEN.</p>
             </div>
             <div className="register-block">
-                <h1>Sign Up</h1>
+                <h1>Create An Account</h1>
                 <input
                     name="username"
                     placeholder="Username"

@@ -38,7 +38,7 @@ function Login() {
             </div>
 
             <div className="login-block" >
-                <h1>Log In</h1>
+                <h1>Welcome Back!</h1>
                 <input
                     type="text"
                     placeholder="Username"

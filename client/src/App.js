@@ -10,17 +10,22 @@ import './App.css';
 
 function Root() {
  
+  const [view, setView] = useState("dashbaord");
   const navigate = useNavigate();
+
+  function handleNavigate (path) {
+      navigate(path);
+  }
 
   return (
     <div className="App">
       <div className="nav-container">
         <div className="name-container">
-          <h1 className="navbar-logo" onClick={() => navigate('/dashboard')}>ClassCove</h1>
+          <h1 className="navbar-logo" onClick={() => handleNavigate('/dashboard')}>ClassCove</h1>
         </div>
         <div className="login-register-container">
-          <a className="login-register" onClick={() => navigate('/register')}> <button id="register-button" className="navbar-button"><p id="register-text">Register</p></button></a>
-          <a className="login-register" onClick={() => navigate('/login')}><button id="login-button" className="navbar-button"><span>Sign In</span></button></a>
+          <a className="login-register" onClick={() => handleNavigate('/register')}> <button id="register-button" className="navbar-button"><p id="register-text">Register</p></button></a>
+          <a className="login-register" onClick={() => handleNavigate('/login')}><button id="login-button" className="navbar-button"><span>Sign In</span></button></a>
         </div>
 
       </div>

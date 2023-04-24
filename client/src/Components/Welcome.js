@@ -1,4 +1,4 @@
-import { React, useState } from 'react';
+import { React, useState, useEffect } from 'react';
 import Login from './Login';
 import Register from './Register';
 import "../stylesheets/login.css";
@@ -6,6 +6,7 @@ import "../stylesheets/welcome.css";
 
 function Welcome() {
   const [onLogin, setOnLogin] = useState("onLogin");
+
 
   const sidebarOnLeft = () => {
     if (onLogin === "onLogin") {

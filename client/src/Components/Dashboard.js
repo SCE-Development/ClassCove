@@ -86,14 +86,16 @@ function Dashboard() {
     }
 
     return (
-        <div>
+        <div id="dashboard-content">
             <link
                 href="http://fonts.googleapis.com/css?family=Montserrat:400,700"
                 rel="stylesheet"
                 type="text/css"
             ></link>
-            <h1 className="title">Ready to start planning, {userName}? </h1>
             <div className="dashboard-section">
+                <div id="dashboard-header">
+                    <h1>Ready to start planning, {userName}? </h1>
+                </div>
                 <div className="dashboard-container">
                     <div className="school">
                         <h2>Select a school</h2>
@@ -108,9 +110,11 @@ function Dashboard() {
 
                     <button onClick={() => logout()}> Log out </button>
 
-                    <Link to="/professors" state={{ professors: professors, course: course }}>
+                    <div>
+                        <Link to="/professors" state={{ professors: professors, course: course }}>
                         Search Professors
-                    </Link>
+                        </Link>
+                    </div>
                 </div>
             </div>
         </div>

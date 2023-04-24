@@ -1,6 +1,7 @@
 import {useEffect, useState} from "react"; 
 import { useLocation } from 'react-router-dom'
 import React from 'react'
+import "../stylesheets/login.css";
 
 function Recommendation() { 
     const location = useLocation(); 
@@ -31,9 +32,21 @@ function Recommendation() {
 
     return(
         <div>
-            <p>Try these professors for {course}</p>
-            {professorRecs()}
+        <link
+            href="http://fonts.googleapis.com/css?family=Montserrat:400,700"
+            rel="stylesheet"
+            type="text/css"
+        ></link>
+        
+        <div className="recommendation-section">
+            <div id="dashboard-header">
+                <h1 className="title">Try these professors for {course} </h1>
+            </div>
+            <div className="recommendation-container">
+                {professorRecs()}
+            </div>
         </div>
+    </div>
     )
 }
 
